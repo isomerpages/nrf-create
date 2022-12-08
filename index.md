@@ -56,6 +56,7 @@ sections:
       alt: Image alt text
       title: Massachusetts Institute of Technology
       subtitle: MIT
+      image: /images/Research Areas/CREATEPartnerMIT.png
   - infopic:
       title: University of Cambridge
       button: Link
