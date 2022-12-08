@@ -30,4 +30,8 @@ sections:
         the National Research Foundation, interdisciplinary research centres
         from top universities.
       url: /faq/
+  - resources:
+      title: News, Updates & Events
+      subtitle: Resources Section Subtitle
+      button: FIND OUT MORE
 ---
