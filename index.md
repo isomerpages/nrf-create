@@ -37,7 +37,6 @@ sections:
   - infobar:
       title: Research Areas
   - infopic:
-      title: Environment System
       button: FIND OUT MORE
       url: \\
       image: /images/CREATEHomepage image1.png
