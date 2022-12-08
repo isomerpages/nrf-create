@@ -19,10 +19,10 @@ locations:
     title: Mailing Address
   - address:
       - 109 North Bridge Road
-      - Singapore 179097
-      - ""
+      - "#04-05 CREATE Tower"
+      - Singapore 138602
     operating_hours: []
-    maps_link: https://goo.gl/maps/C8VfxphGxT2GsfcaA
+    maps_link: ""
     title: Branch Office
 contacts:
   - content:
