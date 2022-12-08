@@ -2,7 +2,6 @@ collections:
   about-create:
     output: true
     order:
-      - Research Centres/SMART.md
       - Research Centres/.keep
       - Vision.md
       - CREATE Milestones.md
