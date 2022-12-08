@@ -54,4 +54,11 @@ sections:
       alt: Image alt text
       title: Massachusetts Institute of Technology
       subtitle: MIT
+      image: /images/CREATEPartnerMIT.png
+  - infopic:
+      title: University of Cambridge
+      button: Link
+      url: https://www.cam.ac.uk/
+      image: /images/CREATEPartnerCambridge.png
+      alt: Image alt text
 ---
