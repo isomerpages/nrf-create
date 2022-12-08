@@ -25,9 +25,9 @@ sections:
           description: ""
           url: https://sg.news.yahoo.com/treatment-drug-resistant-malaria-possible-within-10-years-mit-smart-ntu-team-105028576.html?guccounter=1
   - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
+      title: Welcome to CREATE
+      description: An international research campus and innovation hub, CREATE hosts
+        the National Research Foundation, interdisciplinary research centres
+        from top universities.
       url: /faq/
 ---
