@@ -1,0 +1,4 @@
+collections:
+  research-areas:
+    output: true
+    order: []
