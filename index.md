@@ -35,5 +35,5 @@ sections:
       subtitle: Resources Section Subtitle
       button: FIND OUT MORE
   - infobar:
-      title: RESEARCH AREAS
+      title: Research Areas
 ---
