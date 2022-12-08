@@ -55,15 +55,33 @@ In addition, CREATE organises monthly PI seminar series where PIs from the CREAT
 You may submit a request to the respective CREATE point of contacts listed below: 
 
 **BEARS**</br>
-Contact Person: Mr Keith Tan</br>
-Email: keith.tan@bears-berkeley.sg
+Contact Person: Mr Keith Tan
+<br>Email: keith.tan@bears-berkeley.sg</br>
 
 **CARES**</br>
-Contact Person: Ms Joy Haughton</br>
-Email: Joy.Haughton@admin.cam.ac.uk
+Contact Person: Ms Joy Haughton
+<br>Email: Joy.Haughton@admin.cam.ac.uk</br>
 
 **E2S2**</br>
 Contact Person: Ms Wang Bingfang
-Email: eriwb@nus.edu.sg
+<br>Email: eriwb@nus.edu.sg</br>
 
-SEC</strong></div><div style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0256px;">Contact Person: Ms Faizah Noor</div><div style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0256px;">Email:&nbsp;<a style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0272px; text-decoration: none; color: rgb(11, 90, 127);" href="mailto:noor@arch.ethz.ch">noor@arch.ethz.ch</a></div><div style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0256px;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0272px;"></div><div style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0256px;"><strong style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0272px;">SHARE</strong></div><div style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0256px;">Contact Person: Ms Tali Cliff Tavor</div><div style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0256px;">Email:&nbsp;<a style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0272px; text-decoration: none; color: rgb(11, 90, 127);" href="mailto:tcliff@share-huj.com">tcliff@share-huj.com</a></div><div style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0256px;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0272px;"></div><div style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0256px;"><strong style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0272px;">SMART</strong></div><div style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0256px;">Contact Person: Ms Jocelyn Sales</div><div style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0256px;">Email:&nbsp;<a style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0272px; text-decoration: none; color: rgb(11, 90, 127);" href="mailto:jsales@mit.edu">jsales@mit.edu</a></div><div style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0256px;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0272px;"></div><div style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0256px;"><strong style="margin: 0px; TUM-CREATE</strong></div><div style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0256px;">Contact Person: Ms Carol Lim</div><div style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0256px;">Email:&nbsp;<a style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0272px; text-decoration: none; color: rgb(11, 90, 127);" href="mailto:carol.lim@tum-create.edu.sg">carol.lim@tum-create.edu.sg</a></div><div style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0256px;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0272px;"></div><div style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0256px;"><strong style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0272px;">TSCP hosted by ILATSG</strong></div><div style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0256px;">Contact Person: Ms Pauline Wee</div><div style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0256px;">Email:&nbsp;<a style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0272px; text-decoration: none; color: rgb(11, 90, 127);" href="mailto:Pauline.Wee@adsc.com.sg"Pauline.Wee@adsc.com.sg
+**SEC**</br>
+Contact Person: Ms Faizah Noor
+<br>Email: noor@arch.ethz.ch</br>
+	
+**SHARE**</br>
+Contact Person: Ms Tali Cliff Tavor
+<br>Email: tcliff@share-huj.com</br>
+	
+**SMART**
+Contact Person: Ms Jocelyn Sales
+<br>Email: jsales@mit.edu</br>
+	
+**TUM-CREATE**
+Contact Person: Ms Carol Lim
+<br>Email:carol.lim@tum-create.edu.sg</br>
+	
+**TSCP hosted by ILATSG**
+Contact Person: Ms Pauline Wee
+<br>Email: Pauline.Wee@adsc.com.sg</br>
