@@ -5,7 +5,8 @@ description: ""
 ---
 ## CREATE’s Vision
 ---------------
-![test](/images/CreateHomepage.png)
+
+[Link to video](https://safe.menlosecurity.com/https://www.youtube.com/watch?v=fsBoM23PKMs&t=1s)
 
 An international collaboratory of research centres set up by top global universities and research institutes in Singapore that will:
 
