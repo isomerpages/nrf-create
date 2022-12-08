@@ -7,10 +7,9 @@ permalink: /
 notification: ""
 sections:
   - hero:
-      title: Hero title
-      subtitle: Hero subtitle
-      background: /images/hero-banner.png
-      button: Contact Us
+      title: CREATE
+      subtitle: Campus for Research Excellence and Technological Enterprise
+      background: /images/CreateHomepage.png
       url: /contact-us/
       key_highlights:
         - title: Highlight A
