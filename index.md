@@ -39,8 +39,9 @@ sections:
   - infopic:
       button: FIND OUT MORE
       url: \\
-      image: /images/CREATEHomepage image1.png
+      image: /images/Research Areas/CREATEHomepage image1.png
       alt: Image alt text
+      subtitle: Environment system
   - infopic:
       button: FIND OUT MORE
       url: \\
