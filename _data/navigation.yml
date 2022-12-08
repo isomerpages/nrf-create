@@ -2,7 +2,7 @@ logo: /images/isomer-logo.svg
 links:
   - title: Research Areas
     collection: research-areas
-  - title: Contact Us
-    url: /contact-us/
   - title: About CREATE
     collection: about-create
+  - title: Contact Us
+    url: /contact-us/
