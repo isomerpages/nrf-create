@@ -46,4 +46,6 @@ sections:
       url: \\
       alt: Image alt text
       image: /images/CREATEHomepage image2.png
+  - infobar:
+      title: CREATE PARTNERS
 ---
