@@ -48,4 +48,8 @@ sections:
       image: /images/CREATEHomepage image2.png
   - infobar:
       title: CREATE PARTNERS
+  - infopic:
+      button: Link
+      url: https://web.mit.edu/
+      alt: Image alt text
 ---
