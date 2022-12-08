@@ -45,7 +45,7 @@ sections:
       button: FIND OUT MORE
       url: \\
       alt: Image alt text
-      image: /images/CREATEHomepage image2.png
+      image: /images/Research Areas/CREATEHomepage image2.png
   - infobar:
       title: CREATE PARTNERS
   - infopic:
