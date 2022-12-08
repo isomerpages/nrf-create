@@ -5,6 +5,6 @@ description: ""
 ---
 CREATE's areas of research fall under four major interdisciplinary themes. They are:
 
-[Environmental Systems](/research-areas/ResearchAreas/EnvironmentSystems/permalink/)
+* [Environmental Systems](/research-areas/ResearchAreas/EnvironmentSystems/permalink/)
 
-[Energy Systems]
+* [Energy Systems](/research-areas/EnergySystems/permalink/)
