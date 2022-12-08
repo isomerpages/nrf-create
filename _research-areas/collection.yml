@@ -1,4 +1,5 @@
 collections:
   research-areas:
     output: true
-    order: []
+    order:
+      - Environment Systems.md
