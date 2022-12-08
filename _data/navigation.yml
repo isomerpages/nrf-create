@@ -1,8 +1,6 @@
 logo: /images/isomer-logo.svg
 links:
-  - title: Example Page
-    url: /example-page/
-  - title: Contact Us
-    url: /contact-us/
   - title: Research Areas
     collection: research-areas
+  - title: Contact Us
+    url: /contact-us/
