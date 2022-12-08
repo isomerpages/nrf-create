@@ -46,7 +46,8 @@ sections:
       button: FIND OUT MORE
       url: \\
       alt: Image alt text
-      image: /images/CREATEPartnerCambridge.png
+      image: /images/Research Areas/CREATEHomepage image2.png
+      title: Energy System
   - infobar:
       title: CREATE PARTNERS
   - infopic:
