@@ -36,4 +36,10 @@ sections:
       button: FIND OUT MORE
   - infobar:
       title: Research Areas
+  - infopic:
+      title: Environment System
+      button: FIND OUT MORE
+      url: \\
+      image: /images/CREATEHomepage image1.png
+      alt: Image alt text
 ---
