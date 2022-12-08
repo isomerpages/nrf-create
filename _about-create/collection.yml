@@ -1,0 +1,4 @@
+collections:
+  about-create:
+    output: true
+    order: []
