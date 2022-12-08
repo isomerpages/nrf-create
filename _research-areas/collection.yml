@@ -2,4 +2,5 @@ collections:
   research-areas:
     output: true
     order:
+      - Energy Systems.md
       - Environment Systems.md
