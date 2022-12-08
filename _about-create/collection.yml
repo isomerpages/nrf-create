@@ -1,4 +1,5 @@
 collections:
   about-create:
     output: true
-    order: []
+    order:
+      - Vision.md
