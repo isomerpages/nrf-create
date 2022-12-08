@@ -35,4 +35,9 @@ contacts:
       - email: careers@abc.gov.sg
       - other: ""
     title: Careers
+  - content:
+      - phone: ""
+      - email: ""
+      - other: ""
+    title: POC for Internship Applicants
 ---
