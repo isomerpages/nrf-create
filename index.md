@@ -45,7 +45,7 @@ sections:
       button: FIND OUT MORE
       url: \\
       alt: Image alt text
-      image: /images/Research Areas/CREATEHomepage image2.png
+      image: /images/CREATEPartnerCambridge.png
   - infobar:
       title: CREATE PARTNERS
   - infopic:
@@ -54,7 +54,6 @@ sections:
       alt: Image alt text
       title: Massachusetts Institute of Technology
       subtitle: MIT
-      image: /images/CREATEPartnerMIT.png
   - infopic:
       title: University of Cambridge
       button: Link
