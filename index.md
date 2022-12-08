@@ -18,9 +18,12 @@ sections:
         - title: Professor Eugene Fitzgerald appointed CEO of SMART
           description: ""
           url: https://www.asianscientist.com/2019/02/features/asias-scientific-trailblazers-eugene-fitzgerald/
-        - title: Page A
-          description: Page A is important too
-          url: /privacy/
+        - title: "Wht it matters: Killer Heat"
+          description: ""
+          url: https://www.channelnewsasia.com/cnainsider/singapore-hot-weather-urban-heat-effect-temperature-humidity-906231
+        - title: "A potential treatment for severe malaria "
+          description: ""
+          url: https://sg.news.yahoo.com/treatment-drug-resistant-malaria-possible-within-10-years-mit-smart-ntu-team-105028576.html?guccounter=1
   - infobar:
       title: Infobar title
       subtitle: Subtitle
