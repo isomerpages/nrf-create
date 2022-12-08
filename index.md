@@ -12,12 +12,12 @@ sections:
       background: /images/CreateHomepage.png
       url: /contact-us/
       key_highlights:
-        - title: Highlight A
-          description: Important highlight A is important
-          url: https://google.com
-        - title: Highlight B
-          description: Important highlight B is equally important
-          url: https://gmail.com
+        - title: CNRS joins CREATE Research Centres
+          description: ""
+          url: https://www.cnrs.fr/en/singapore-cnrs-opens-cnrscreate-its-first-overseas-subsidiary
+        - title: Professor Eugene Fitzgerald appointed CEO of SMART
+          description: ""
+          url: https://www.asianscientist.com/2019/02/features/asias-scientific-trailblazers-eugene-fitzgerald/
         - title: Page A
           description: Page A is important too
           url: /privacy/
