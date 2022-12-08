@@ -61,6 +61,6 @@ sections:
       title: University of Cambridge
       button: Link
       url: https://www.cam.ac.uk/
-      image: /images/CREATEPartnerCambridge.png
+      image: /images/Research Areas/CREATEPartnerCambridge.png
       alt: Image alt text
 ---
