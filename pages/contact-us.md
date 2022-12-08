@@ -32,12 +32,12 @@ contacts:
     title: General Enquiries
   - content:
       - phone: ""
-      - email: careers@abc.gov.sg
-      - other: ""
-    title: Careers
+      - email: jsales@mit.edu
+      - other: "POC: Ms Jocelyn Sales"
+    title: SMART
   - content:
       - phone: ""
-      - email: ""
-      - other: ""
-    title: POC for Internship Applicants
+      - email: faizah.othman@sec.ethz.ch
+      - other: "POC: Ms Noor Faizah Binte Othman"
+    title: SEC
 ---
