@@ -3,5 +3,5 @@ collections:
     output: true
     order:
       - Research Areas.md
-      - Energy Systems.md
       - Environment Systems.md
+      - Energy Systems.md
