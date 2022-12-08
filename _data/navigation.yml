@@ -6,3 +6,6 @@ links:
     collection: about-create
   - title: Contact Us
     url: /contact-us/
+  - title: FAQ
+    url: /faq/
+    sublinks: []
