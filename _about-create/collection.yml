@@ -2,4 +2,5 @@ collections:
   about-create:
     output: true
     order:
+      - CREATE Milestones.md
       - Vision.md
