@@ -41,4 +41,8 @@ sections:
       url: \\
       image: /images/CREATEHomepage image1.png
       alt: Image alt text
+  - infopic:
+      button: FIND OUT MORE
+      url: \\
+      alt: Image alt text
 ---
