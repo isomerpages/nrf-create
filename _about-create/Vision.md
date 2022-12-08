@@ -8,6 +8,8 @@ description: ""
 
 [Link to video](https://safe.menlosecurity.com/https://www.youtube.com/watch?v=fsBoM23PKMs&t=1s)
 
+![](/images/CreateHomepage.png)
+
 An international collaboratory of research centres set up by top global universities and research institutes in Singapore that will:
 
 *   Engage in cutting edge research
