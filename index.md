@@ -52,4 +52,6 @@ sections:
       button: Link
       url: https://web.mit.edu/
       alt: Image alt text
+      title: Massachusetts Institute of Technology
+      subtitle: MIT
 ---
