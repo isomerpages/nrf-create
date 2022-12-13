@@ -70,9 +70,9 @@ Email: eriwb@nus.edu.sg<br/>
 Contact Person: Ms Faizah Noor<br/>
 <br>Email: noor@arch.ethz.ch<br/>
 	
-**SHARE**<br/>>
+**SHARE**<br/>
 Contact Person: Ms Tali Cliff Tavor<br/>
-<br>Email: tcliff@share-huj.com<br/>
+Email: tcliff@share-huj.com<br/>
 	
 **SMART**<br/>
 Contact Person: Ms Jocelyn Sales<br/>
