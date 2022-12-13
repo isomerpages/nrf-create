@@ -38,7 +38,7 @@ sections:
       title: Research Areas
   - infopic:
       button: FIND OUT MORE
-      url: \\
+      url: /research-areas/ResearchAreas/EnvironmentSystems/permalink/
       image: /images/Research Areas/CREATEHomepage image1.png
       alt: Image alt text
       title: Environment system
