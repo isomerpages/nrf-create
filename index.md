@@ -44,7 +44,7 @@ sections:
       title: Environment system
   - infopic:
       button: FIND OUT MORE
-      url: \\
+      url: /research-areas/EnergySystems/permalink/
       alt: Image alt text
       image: /images/Research Areas/CREATEHomepage image2.png
       title: Energy System
