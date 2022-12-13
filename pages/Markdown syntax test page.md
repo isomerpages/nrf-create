@@ -41,5 +41,6 @@ String 3<br/>
 <b>Title 2</b><br/>
 This is a place holder for a section example under Title 2
 
-### Youtube videos
-<a href="http://www.youtube/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE "target="_blank>
+<b> Youtube videos </b> <br/>
+While it's not possible to embed video in markdown, the best and easiest way is to extract a frame from the video and link the video url on the image. 
+[![Alt text](/images/About%20Create/CreateVisionYTimage.png)](https://safe.menlosecurity.com/https://www.youtube.com/watch?v=fsBoM23PKMs&t=1s)
