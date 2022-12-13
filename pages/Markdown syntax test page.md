@@ -40,3 +40,6 @@ String 3<br/>
 <a id='2'></a>
 <b>Title 2</b><br/>
 This is a place holder for a section example under Title 2
+
+### Youtube videos
+<a href="http://www.youtube/watch?feature=player_embedded&v=YOUTUBE_VIDEO_ID_HERE "target="_blank>
