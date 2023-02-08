@@ -1,7 +1,7 @@
 ---
 layout: homepage
-title: Title
-description: An Isomer site of the Singapore Government
+title: CREATE
+description: Create Campus for Research Excellence And Technological Enterprise
 image: /images/isomer-logo.svg
 permalink: /
 notification: ""
@@ -64,4 +64,5 @@ sections:
       image: /images/Research Areas/CREATEPartnerCambridge.png
       alt: Image alt text
 ---
+
 
