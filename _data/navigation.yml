@@ -4,6 +4,10 @@ links:
     collection: research-areas
   - title: About CREATE
     collection: about-create
+  - title: Galleries
+    collection: galleries
+  - title: Events
+    collection: events
   - title: Contact Us
     url: /contact-us/
   - title: FAQ
