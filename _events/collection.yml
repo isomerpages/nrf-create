@@ -1,4 +1,5 @@
 collections:
   events:
     output: true
-    order: []
+    order:
+      - February’s Monthly Seminar Series by CREATE PIs.md
