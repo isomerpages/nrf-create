@@ -16,14 +16,10 @@ sections:
           description: ""
           url: https://www.cnrs.fr/en/singapore-cnrs-opens-cnrscreate-its-first-overseas-subsidiary
         - title: Professor Eugene Fitzgerald appointed CEO of SMART
-          description: Professor Eugene Fitzgerald appointed CEO of SMART.He replaces
-            Professor Daniel Hastings, who returns to MIT to head the Department
-            of Aeronautics and Astronautics.
+          description: ""
           url: https://www.asianscientist.com/2019/02/features/asias-scientific-trailblazers-eugene-fitzgerald/
         - title: "Why it matters: Killer Heat"
-          description: Prof Gerhard Schmitt explained the urban heat island effect in
-            Singapore and how to mitigate it on Channel NewsAsia's Why It
-            Matters.
+          description: ""
           url: https://www.channelnewsasia.com/cnainsider/singapore-hot-weather-urban-heat-effect-temperature-humidity-906231
         - title: "A potential treatment for severe malaria "
           description: ""
