@@ -2,9 +2,9 @@ collections:
   about-create:
     output: true
     order:
-      - Research Centres/BEARS.md
-      - Research Centres/Research Centres.md
       - Research Centres/.keep
+      - Research Centres/Research Centres.md
+      - Research Centres/BEARS.md
       - Vision.md
       - CREATE Milestones.md
       - About the Campus.md
