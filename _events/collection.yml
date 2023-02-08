@@ -2,5 +2,6 @@ collections:
   events:
     output: true
     order:
+      - CREATE entities events pages.md
       - Events/February’s Monthly Seminar Series by CREATE PIs.md
       - Events/.keep
