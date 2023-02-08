@@ -2,5 +2,5 @@ collections:
   news:
     output: true
     order:
-      - News Report/.keep
+      - News Reports/.keep
       - Press Releases/.keep
