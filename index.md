@@ -16,7 +16,9 @@ sections:
           description: ""
           url: https://www.cnrs.fr/en/singapore-cnrs-opens-cnrscreate-its-first-overseas-subsidiary
         - title: Professor Eugene Fitzgerald appointed CEO of SMART
-          description: ""
+          description: Professor Eugene Fitzgerald appointed CEO of SMART.He replaces
+            Professor Daniel Hastings, who returns to MIT to head the Department
+            of Aeronautics and Astronautics.
           url: https://www.asianscientist.com/2019/02/features/asias-scientific-trailblazers-eugene-fitzgerald/
         - title: "Why it matters: Killer Heat"
           description: Prof Gerhard Schmitt explained the urban heat island effect in
