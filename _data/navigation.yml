@@ -8,6 +8,8 @@ links:
     collection: galleries
   - title: Events
     collection: events
+  - title: News
+    collection: news
   - title: Contact Us
     url: /contact-us/
   - title: FAQ
