@@ -4,6 +4,8 @@ permalink: /about-create/Research-Centres/bears/
 description: ""
 third_nav_title: Research Centres
 ---
+![](/images/Research%20Centres/BEARS/beaimg1.jpg)
+![](/images/Research%20Centres/BEARS/bearimg2.jpg)
 ABOUT BEARS
 -----------
 
