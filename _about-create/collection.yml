@@ -2,6 +2,7 @@ collections:
   about-create:
     output: true
     order:
+      - Research Centres/.keep
       - Vision.md
       - CREATE Milestones.md
       - About the Campus.md
