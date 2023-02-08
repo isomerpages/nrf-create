@@ -2,4 +2,5 @@ collections:
   events:
     output: true
     order:
+      - Events/February’s Monthly Seminar Series by CREATE PIs.md
       - Events/.keep
