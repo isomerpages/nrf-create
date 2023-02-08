@@ -18,8 +18,10 @@ sections:
         - title: Professor Eugene Fitzgerald appointed CEO of SMART
           description: ""
           url: https://www.asianscientist.com/2019/02/features/asias-scientific-trailblazers-eugene-fitzgerald/
-        - title: "Wht it matters: Killer Heat"
-          description: ""
+        - title: "Why it matters: Killer Heat"
+          description: Prof Gerhard Schmitt explained the urban heat island effect in
+            Singapore and how to mitigate it on Channel NewsAsia's Why It
+            Matters.
           url: https://www.channelnewsasia.com/cnainsider/singapore-hot-weather-urban-heat-effect-temperature-humidity-906231
         - title: "A potential treatment for severe malaria "
           description: ""
@@ -64,5 +66,3 @@ sections:
       image: /images/Research Areas/CREATEPartnerCambridge.png
       alt: Image alt text
 ---
-
-
