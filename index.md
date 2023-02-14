@@ -32,7 +32,6 @@ sections:
       url: /faq/
   - resources:
       title: News, Updates & Events
-      subtitle: Resources Section Subtitle
       button: FIND OUT MORE
   - infobar:
       title: Research Areas
