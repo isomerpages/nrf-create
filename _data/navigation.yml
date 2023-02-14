@@ -4,7 +4,7 @@ links:
     collection: research-areas
   - title: About CREATE
     collection: about-create
-  - title: Events
+  - title: Resources
     resource_room: true
   - title: Galleries
     collection: galleries
