@@ -2,6 +2,7 @@ collections:
   research-areas:
     output: true
     order:
+      - Urban Systems.md
       - Research Areas.md
       - Environment Systems.md
       - Energy Systems.md
