@@ -52,6 +52,7 @@ sections:
       button: Find out more
       url: /research-areas/human-systems
       alt: Image alt text
+      image: /images/humansystem_inner2b5ca91ee16462aab381ff0000b1bb86.jpg
   - infobar:
       title: CREATE PARTNERS
   - infopic:
