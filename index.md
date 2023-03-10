@@ -48,24 +48,19 @@ sections:
       image: /images/Research Areas/CREATEHomepage image2.png
       title: Energy System
   - infopic:
-      title: Human Systems
+      title: Human System
       button: Find out more
       url: /research-areas/human-systems
       alt: Image alt text
-      image: /images/humansystem_inner2b5ca91ee16462aab381ff0000b1bb86.jpg
+      image: /images/Research Areas/Human System icon.jpg
+  - infopic:
+      title: Urban System
+      button: Find out more
+      url: /research-areas/urban-systems
+      image: /images/Research Areas/Urban System icon.jpg
+      alt: Image alt text
   - infobar:
       title: CREATE PARTNERS
-  - infopic:
-      button: Link
-      url: https://web.mit.edu/
-      alt: Image alt text
-      title: Massachusetts Institute of Technology
-      subtitle: MIT
-      image: /images/Research Areas/CREATEPartnerMIT.png
-  - infopic:
-      title: University of Cambridge
-      button: Link
-      url: https://www.cam.ac.uk/
-      image: /images/Research Areas/CREATEPartnerCambridge.png
-      alt: Image alt text
+      button: List of Partners
+      url: /partners
 ---
