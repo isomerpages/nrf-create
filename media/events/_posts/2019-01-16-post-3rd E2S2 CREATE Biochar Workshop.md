@@ -6,3 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
+Event Date: 16 Jan 2019 12:00 AM - 16 Jan 2019 10:00 AM
+
+Event Venue: CREATE Theatrette
+
+![](/images/Events/3rd%20e2s2-create.png)
