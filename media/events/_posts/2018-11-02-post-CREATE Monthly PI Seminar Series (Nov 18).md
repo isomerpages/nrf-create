@@ -6,3 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
+Event Date: 02 Nov 2018 03:00 AM - 02 Nov 2018 04:00 AM
+
+Event Venue: CREATE Theatrette Level 2 CREATE Tower
+
+![](/images/Events/Nov%202018.jpg)
