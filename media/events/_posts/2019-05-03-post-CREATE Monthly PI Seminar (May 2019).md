@@ -6,3 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
+Event Date: 03 May 2019 03:00 AM - 03 May 2019 05:00 AM
+
+Event Venue: CREATE Tower, Level 2 CREATE Theatrette
+
+![](/images/Events/May%202019.jpg)
