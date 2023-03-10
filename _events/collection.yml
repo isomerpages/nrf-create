@@ -3,5 +3,6 @@ collections:
     output: true
     order:
       - CREATE entities events pages.md
+      - Events/CREATE Symposium on Addressing Climate Change.md
       - Events/February’s Monthly Seminar Series by CREATE PIs.md
       - Events/.keep
