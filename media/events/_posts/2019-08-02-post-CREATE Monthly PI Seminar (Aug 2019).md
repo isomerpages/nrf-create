@@ -6,3 +6,9 @@ layout: post
 description: ""
 image: ""
 ---
+  
+Event Date: 02 Aug 2019 03:00 AM - 02 Aug 2019 05:00 AM
+
+Event Venue: CREATE Theatrette
+
+![](/images/Aug%202019.png)
