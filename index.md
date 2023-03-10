@@ -47,6 +47,11 @@ sections:
       alt: Image alt text
       image: /images/Research Areas/CREATEHomepage image2.png
       title: Energy System
+  - infopic:
+      title: Human Systems
+      button: Find out more
+      url: /research-areas/human-systems
+      alt: Image alt text
   - infobar:
       title: CREATE PARTNERS
   - infopic:
