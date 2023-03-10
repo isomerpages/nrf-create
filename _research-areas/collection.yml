@@ -2,7 +2,7 @@ collections:
   research-areas:
     output: true
     order:
-      - Human Systems.md
       - Research Areas.md
       - Environment Systems.md
       - Energy Systems.md
+      - Human Systems.md
