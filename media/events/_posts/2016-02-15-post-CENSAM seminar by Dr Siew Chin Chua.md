@@ -6,3 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
+Event Date: 15 Feb 2016 04:00 AM - 15 Feb 2016 05:00 AM
+
+Event Venue: Theatrette level 2
