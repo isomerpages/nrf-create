@@ -56,3 +56,9 @@ CITIES KNOWLEDGE GRAPH
 [Cities Knowledge Graph](https://www.cares.cam.ac.uk/research/cities/) is an Intra-CREATE collaborative project under the urban systems theme. The project brings together expertise from Cambridge CARES as the host institution of the project, and SEC (the Singapore-ETH Centre, established by ETH Zürich). The team is led by principal investigators from the University of Cambridge and ETH Zürich.
 
 The project aims to harness rapidly growing and diversifying data streams to improve the planning and design of cities. It will do so by developing an innovative digital platform designed to combine data and share knowledge about cities, and to inject new precision and responsiveness to static instruments of planning, such as the city master-plan.
+
+[Download the CARES C4T Factsheet](/files/c4t-fact-sheet.pdf)
+![Download the CARES C4T Factsheet](/images/Research%20Centres/c4t-fact-sheet-front.jpg)
+
+[Download the CLIC Factsheet]()
+![Download the CLIC Factsheet](/images/Research%20Centres/clic-fact-sheet-front.jpg)
