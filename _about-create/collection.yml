@@ -3,10 +3,10 @@ collections:
     output: true
     order:
       - Vision.md
-      - CREATE Fellowship.md
       - CREATE Milestones.md
       - About the Campus.md
       - Research Centres/.keep
       - Research Centres/Research Centres.md
       - Research Centres/BEARS.md
       - Research Centres/CARES.md
+      - CREATE Fellowship.md
