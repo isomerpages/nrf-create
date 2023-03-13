@@ -6,3 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
+  
+Event Date: 23 Sep 2015 01:30 AM - 23 Sep 2015 02:15 AM
+
+Event Venue: CREATE Theatrette, Level 2
