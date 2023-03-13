@@ -13,8 +13,7 @@ Event Venue: Enterprise Wing, Level 5, Perseverance Rooms 1/2
 Diversity of DNA structures under high tension
 ==============================================
 
-**by Dr Xinghua Zhang  
-**
+**by Dr Xinghua Zhang**  
 
 **Seminar Abstract**  
 DNA has multiple structures depending on conditions. Previous single-molecule studies revealed that mechanical stretching of force could induce formation of overstretched DNA structures from the most common B-form DNA structure. Three possible structures have been proposed and debated for 17 years, namely:  1) peeled ssDNA, 2) DNA bubble, and 3) S-DNA.  By thermodynamics, mechanical and electrostatic studies, we have successfully identified all the three proposed structures. We also found interconversions between overstretched DNA structures can be induced by changing buffer conditions.  
