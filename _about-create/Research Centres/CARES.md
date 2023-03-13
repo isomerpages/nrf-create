@@ -4,6 +4,7 @@ permalink: /about-create/Research-Centres/cares/
 description: ""
 third_nav_title: Research Centres
 ---
+![](/images/Research%20Centres/cares-450.png)
 The Cambridge Centre for Advanced Research and Education (CARES) was established in 2013 as the University of Cambridge’s first research centre outside the UK. It brings together researchers from the University of Cambridge, Nanyang Technological University and National University of Singapore to work on problems relevant to Singapore and the world at large.  
 
 CARES' largest programme is the Cambridge Centre for Carbon Reduction in Chemical Technology, which commenced in 2013 when CARES opened. This is a collaborative effort involving researchers from University of Cambridge, Nanyang Technological University and National University of Singapore.
