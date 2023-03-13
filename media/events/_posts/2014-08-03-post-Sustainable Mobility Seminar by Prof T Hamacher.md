@@ -6,3 +6,8 @@ layout: post
 description: ""
 image: ""
 ---
+Event Date: 03 Aug 2014 04:00 PM - 14 Aug 2014 04:00 PM
+
+Event Venue: TBC
+
+Sustainable Mobility Seminar by Prof Thomas Hamacher
