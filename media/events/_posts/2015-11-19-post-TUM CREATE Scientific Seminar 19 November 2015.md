@@ -6,3 +6,7 @@ layout: post
 description: ""
 image: ""
 ---
+  
+Event Date: 19 Nov 2015 01:30 AM - 19 Nov 2015 03:00 AM
+
+Event Venue: CREATE Theatrette, Level 2, CREATE Tower
