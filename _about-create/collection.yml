@@ -2,8 +2,8 @@ collections:
   about-create:
     output: true
     order:
-      - CREATE Fellowship.md
       - Vision.md
+      - CREATE Fellowship.md
       - CREATE Milestones.md
       - About the Campus.md
       - Research Centres/.keep
