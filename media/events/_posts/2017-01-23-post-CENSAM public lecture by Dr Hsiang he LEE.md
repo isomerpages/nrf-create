@@ -6,3 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
+Event Date: 23 Jan 2017 04:00 AM - 23 Jan 2017 05:00 AM
+
+Event Venue: Create Theatrette, Level 2
