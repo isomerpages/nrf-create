@@ -6,7 +6,6 @@ layout: post
 description: ""
 image: ""
 ---
-  
 Event Date: 14 Mar 2016 08:00 AM - 14 Mar 2016 09:00 AM
 
 Event Venue: CREATE Enterprise Level 5, Perseverance Rooms, UTo
