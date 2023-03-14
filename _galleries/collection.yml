@@ -2,5 +2,5 @@ collections:
   galleries:
     output: true
     order:
-      - CREATE Laboratory of the Year/CREATE Laboratory of the Year.md
+      - CREATE Laboratory of the Year/Photo.md
       - CREATE Laboratory of the Year/.keep
