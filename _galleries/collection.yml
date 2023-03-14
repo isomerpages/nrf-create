@@ -2,5 +2,6 @@ collections:
   galleries:
     output: true
     order:
+      - Video/.keep
       - Photo/CREATE Laboratory of the Year.md
       - Photo/.keep
