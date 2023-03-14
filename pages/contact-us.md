@@ -50,4 +50,9 @@ contacts:
       - email: carol.lim@tum-create.edu.sg
       - other: "POC: Ms Carol Lim"
     title: TUM-CREATE
+  - content:
+      - phone: ""
+      - email: recruitment@cares.cam.ac.uk
+      - other: "POC: Ms Leong Xiang Ning"
+    title: CARES
 ---
