@@ -39,4 +39,4 @@ The following are road directions to the NRF Singapore Headquarters via the foll
 5.  Proceed down the road ramp
 6.  Proceed to CREATE Tower carpark, turn right
 
-Download a print copy of the directions.
+[Download](/files/directions-to-create.pdf) a print copy of the directions.
