@@ -24,6 +24,13 @@ locations:
     operating_hours: []
     maps_link: ""
     title: Branch Office
+  - address:
+      - ""
+      - ""
+      - ""
+    title: Directions to CREATE TOWER
+    operating_hours: []
+    maps_link: /contact-us/Directions-to-CREATE-TOWER/
 contacts:
   - content:
       - phone: +65 6684 2900
