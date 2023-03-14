@@ -4,11 +4,6 @@ permalink: /galleries/Photo/CREATE-Laboratory-of-the-Year/
 description: ""
 third_nav_title: Photo
 ---
-
-
-
-
-
 CREATE Laboratory of the Year
 -----------------------------
 ![](/images/CREATE%20Laboratory%20of%20the%20Year/create_004---copy(croppped)---copy.bmp)
