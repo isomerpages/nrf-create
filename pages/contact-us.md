@@ -28,9 +28,9 @@ locations:
       - ""
       - ""
       - ""
-    title: Directions to CREATE TOWER
     operating_hours: []
     maps_link: /contact-us/Directions-to-CREATE-TOWER/
+    title: Directions to CREATE TOWER
 contacts:
   - content:
       - phone: +65 6684 2900
