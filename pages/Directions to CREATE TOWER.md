@@ -9,11 +9,15 @@ The following are road directions to the NRF Singapore Headquarters via the foll
 *   Cars and other vehicles – via the Ayer Rajah Expressway (AYE)
 *   Cars and other vehicles – via Dover Road
 
+![](/images/Directions%20to%20CREATE%20TOWER/directional-map-public-transport.jpg)
+
 #### Directions to CREATE TOWER by MRT
 
 1.  Alight at Kent Ridge MRT Station (CC24, Circle Line) and proceed to Lower Kent Ridge Road Exit
 2.  Proceed to Bus Stop No. 18221 (right after NUH entrance)
 3.  Take bus service "D2" to University Town. Alight at University Town Bus Stop.
+
+![](/images/Directions%20to%20CREATE%20TOWER/directional-map-via-aye.jpg)
 
 #### Directions to CREATE TOWER via AYE (towards Tuas)
 
@@ -25,6 +29,7 @@ The following are road directions to the NRF Singapore Headquarters via the foll
 6.  At roundabout, turn right and proceed down road ramp
 7.  Proceed to CREATE Tower carpark, turn right
 
+![](/images/Directions%20to%20CREATE%20TOWER/via-dover-rd.jpg)
 #### Directions to CREATE TOWER via Dover Road
 
 1.  Head onto Dover Road from Clementi Road
