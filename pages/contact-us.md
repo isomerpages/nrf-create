@@ -55,4 +55,9 @@ contacts:
       - email: recruitment@cares.cam.ac.uk
       - other: "POC: Ms Leong Xiang Ning"
     title: CARES
+  - content:
+      - phone: ""
+      - email: rajes.kumar@share-huj.com
+      - other: "POC: Mr Rajes Kumar"
+    title: SHARE
 ---
