@@ -60,4 +60,19 @@ contacts:
       - email: rajes.kumar@share-huj.com
       - other: "POC: Mr Rajes Kumar"
     title: SHARE
+  - content:
+      - phone: ""
+      - email: eriwb@nus.edu.sg
+      - other: "POC: Ms Wang Bingfang"
+    title: E2S2
+  - content:
+      - phone: ""
+      - email: Pauline.wee@adsc-create.edu.sg
+      - other: "POC: Ms Pauline Wee"
+    title: TSCP
+  - content:
+      - phone: ""
+      - email: cnrsatcreate@cnrs.fr
+      - other: "POC: Prof Dominique Baillargeat"
+    title: CNRS@CREATE
 ---
