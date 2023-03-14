@@ -3,4 +3,3 @@ collections:
     output: true
     order:
       - CREATE Laboratory of the Year/.keep
-      - CREATE Laboratory of the Year.md
