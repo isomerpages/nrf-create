@@ -2,4 +2,4 @@ collections:
   galleries:
     output: true
     order:
-      - Photo.md
+      - CREATE Laboratory of the Year.md
