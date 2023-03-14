@@ -4,7 +4,7 @@ permalink: /about-create/research-centres/tscp-hosted-by-ilatsg/
 description: ""
 third_nav_title: Research Centres
 ---
-   ![ADSC](https://www.create.edu.sg/images/default-source/default-album/adsc.png?sfvrsn=2b39cb32_3 "ADSC") ![SUTD logo](https://www.create.edu.sg/images/default-source/default-album/stud_logo_large.jpg?sfvrsn=4f39cb32_2 "stud_logo_large")
+![ADSC](https://www.create.edu.sg/images/default-source/default-album/adsc.png?sfvrsn=2b39cb32_3 "ADSC") ![SUTD logo](https://www.create.edu.sg/images/default-source/default-album/stud_logo_large.jpg?sfvrsn=4f39cb32_2 "stud_logo_large")
 
  About Trustworthy and Secure Cyber Plexus (TSCP) 
 
