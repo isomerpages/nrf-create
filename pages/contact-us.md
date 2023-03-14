@@ -15,7 +15,7 @@ locations:
       - days: Sat
         time: 8.30am - 12.00pm
         description: ""
-    maps_link: \\
+    maps_link: https://www.onemap.gov.sg/main/v2/?lat=1.30399550830821&lng=103.773492152648
     title: Mailing Address
   - address:
       - 109 North Bridge Road
