@@ -40,4 +40,14 @@ contacts:
       - email: faizah.othman@sec.ethz.ch
       - other: "POC: Ms Noor Faizah Binte Othman"
     title: SEC
+  - content:
+      - phone: ""
+      - email: keith.tan@bears-berkeley.sg
+      - other: "POC: Mr Keith Tan"
+    title: BEARS
+  - content:
+      - phone: ""
+      - email: carol.lim@tum-create.edu.sg
+      - other: "POC: Ms Carol Lim"
+    title: TUM-CREATE
 ---
