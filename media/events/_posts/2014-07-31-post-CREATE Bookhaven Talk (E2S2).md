@@ -6,3 +6,10 @@ layout: post
 description: ""
 image: ""
 ---
+Event Date: 31 Jul 2014 04:30 AM - 31 Jul 2014 05:00 AM
+
+Event Venue: Bookhaven, University Town, NUS
+
+Speaker: Dr Nguyen Viet Tung
+
+ (Talk abstract to be advised)
