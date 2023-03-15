@@ -52,7 +52,7 @@ plugins:
 staging: https://staging.d1q14glctguzyi.amplifyapp.com
 prod: https://master.d1q14glctguzyi.amplifyapp.com
 resources_name: media
-shareicon: /images/isomer-logo.svg
+shareicon: /images/logo.png
 is_government: false
 facebook-pixel: ""
 google_analytics: ""
