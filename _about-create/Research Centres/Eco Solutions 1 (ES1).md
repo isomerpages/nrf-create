@@ -4,9 +4,6 @@ permalink: /about-create/research-centres/es1/
 description: ""
 third_nav_title: Research Centres
 ---
-
-
-
 ES-1: Waste-to-Resource: Eco-Energy System towards Environmental Sustainability
 
 This project focuses on waste-energy-resource-environment nexus in a long-term effort to favour resource, energy and environmental sustainability. Real sustainability can only be achieved if these are all considered simultaneously with the pro-active participation of stakeholders. Our Phase 1 results show that traditional centralised energy and waste treatment systems move stakeholders psychologically and physically away from the real or perceived effects, thus diluting their awareness of handling wastes and energy responsibly for the environment. While these are more efficient on conventional economical measurements, their overall resilience and environmental sustainability were found to be lower. Therefore, in Phase 2, we aim to cultivate a culture of energy and environmental conservation by implementing systems that can educate, connect and service stakeholders in existing and new communities and townships.
