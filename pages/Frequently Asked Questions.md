@@ -9,17 +9,17 @@ CREATE is an international research campus of institutional partnerships with le
 ### 2. I am interested in a career with CREATE. How do I apply?
 Please contact the respective CREATE point of contacts listed below:  
 
-**BEARS - SinBerBEST (Building Energy Efficiency) **
-Contact Person: Mr Keith Tan<br/>
-Email: [keith.tan@bears-berkeley.sg](keith.tan@bears-berkeley.sg)<br/> 
+**BEARS - SinBerBEST (Building Energy Efficiency)**
+Contact Person: Mr Keith Tan <br/>
+Email: [keith.tan@bears-berkeley.sg](keith.tan@bears-berkeley.sg) <br/> 
 
-**CARES-C4T (Carbon Reduction) **
-Contact Person: Ms Leong Xiang Ning<br/>
-Email: [recruitment@cares.cam.ac.uk ](recruitment@cares.cam.ac.uk )<br/>
+**CARES-C4T (Carbon Reduction)**
+Contact Person: Ms Leong Xiang Ning <br/>
+Email: [recruitment@cares.cam.ac.uk ](recruitment@cares.cam.ac.uk ) <br/>
 
-**E2S2 (Energy and Environmental Sustainability) **
+**E2S2 (Energy and Environmental Sustainability)**
 Contact Person: Ms Wang Bingfang <br/>
-Email: [eriwb@nus.edu.sg](eriwb@nus.edu.sg)<br/>
+Email: [eriwb@nus.edu.sg](eriwb@nus.edu.sg) <br/>
 
 **SEC-FCL (Urban Design and Territorial Planning) 
 SEC-FRS (Resilient Systems)** <br/> 
@@ -38,9 +38,9 @@ SMART-LEES (Low Energy Electronic Systems)** <br/>
 Contact Person: Ms Jocelyn Sales <br/> 
 Email: [jsales@mit.edu](jsales@mit.edu) <br/> 
 
-**TUM-CREATE (Urban Mobility) **
+**TUM-CREATE (Urban Mobility)**
 Contact Person: Ms Carol Lim <br/> 
-Email: [carol.lim@tum-create.edu.sg](carol.lim@tum-create.edu.sg)<br/> 
+Email: [carol.lim@tum-create.edu.sg](carol.lim@tum-create.edu.sg) <br/> 
 
 **TSCP hosted by ILATSG (Cybersecurity)** 
 Contact Person: Ms Pauline Wee <br/> 
