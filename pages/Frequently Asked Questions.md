@@ -26,15 +26,15 @@ SEC-FRS (Resilient Systems)** <br/>
 Contact Person: Ms Faizah Noor <br/> 
 Email: [noor@arch.ethz.ch](noor@arch.ethz.ch) <br/> 
 
-**SHARE-MMID (Cellular and Molecular Inflammations) SHARE-NEW (Nanomaterials for Energy and Water Management)** <br/> 
+**SHARE-MMID (Cellular and Molecular Inflammations)** **SHARE-NEW (Nanomaterials for Energy and Water Management)** <br/> 
 Contact Person: Ms Tali Cliff Tavor <br/> 
 Email: [tcliff@share-huj.com](tcliff@share-huj.com) <br/> 
 
-**SMART-AMR (Antimicrobial Resistance) 
-SMART-BioSyM (Biosystems and Micromechanics) <br/> 
-SMART-DISTAP (Agricultural Precision) <br/> 
-SMART-FM (Urban Mobility) <br/>
-SMART-LEES (Low Energy Electronic Systems)** <br/> 
+**SMART-AMR (Antimicrobial Resistance)**
+**SMART-BioSyM (Biosystems and Micromechanics)** <br/> 
+**SMART-DISTAP (Agricultural Precision)** <br/> 
+**SMART-FM (Urban Mobility)** <br/>
+**SMART-LEES (Low Energy Electronic Systems)** <br/> 
 Contact Person: Ms Jocelyn Sales <br/> 
 Email: [jsales@mit.edu](jsales@mit.edu) <br/> 
 
