@@ -45,6 +45,9 @@ Application
 For enquiries, please contact Dr Joanita Jasmen at [joanita\_jasmen@nrf.gov.sg](mailto:%20joanita_jasmen@nrf.gov.sg).  
   
 
-[Guidelines for Thematic Grant Call Application](https://www.create.edu.sg/docs/default-source/default-document-library/guidelines-for-thematic-grant-call-application.pdf?sfvrsn=db9a5419_2) (pdf, 203 KB)
 
+[Guidelines for Thematic Grant Call Application](/files/guidelines-for-thematic-grant-call-application.pdf)
+ (pdf) 203 KB
+ 
+ 
 [Attachment 1. CREATE Thematic Call Whitepaper Template](https://www.create.edu.sg/docs/default-source/default-document-library/attachment-1-create-thematic-call-whitepaper-template.doc?sfvrsn=294c8e48_2) (doc, 190 KB)
