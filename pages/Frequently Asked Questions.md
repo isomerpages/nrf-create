@@ -14,8 +14,8 @@ BEARS - SinBerBEST (Building Energy Efficiency)
 <br>Email: [keith.tan@bears-berkeley.sg](keith.tan@bears-berkeley.sg) 
 
 CARES-C4T (Carbon Reduction) 
-</br>Contact Person: Ms Leong Xiang Ning
-</br>Email: [recruitment@cares.cam.ac.uk ](recruitment@cares.cam.ac.uk )
+<br>Contact Person: Ms Leong Xiang Ning
+<br>Email: [recruitment@cares.cam.ac.uk ](recruitment@cares.cam.ac.uk )
 
 E2S2 (Energy and Environmental Sustainability) 
 </br>Contact Person: Ms Wang Bingfang 
