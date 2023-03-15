@@ -2,7 +2,7 @@
 layout: homepage
 title: CREATE
 description: Create Campus for Research Excellence And Technological Enterprise
-image: /images/logo.png
+image: /images/Logos/logo.png
 permalink: /
 notification: ""
 sections:
@@ -64,4 +64,5 @@ sections:
       button: List of Partners
       url: /partners
 ---
+
 
