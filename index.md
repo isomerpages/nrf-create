@@ -2,7 +2,7 @@
 layout: homepage
 title: CREATE
 description: Create Campus for Research Excellence And Technological Enterprise
-image: /images/isomer-logo.svg
+image: /images/logo.png
 permalink: /
 notification: ""
 sections:
@@ -64,3 +64,4 @@ sections:
       button: List of Partners
       url: /partners
 ---
+
