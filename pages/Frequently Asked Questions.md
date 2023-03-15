@@ -10,79 +10,77 @@ CREATE is an international research campus of institutional partnerships with le
 Please contact the respective CREATE point of contacts listed below:  
 
 BEARS - SinBerBEST (Building Energy Efficiency) 
-Contact Person: Mr Keith Tan 
-Email: keith.tan@bears-berkeley.sg 
+</br>Contact Person: Mr Keith Tan 
+</br>Email: keith.tan@bears-berkeley.sg 
 
 CARES-C4T (Carbon Reduction) 
-Contact Person: Ms Leong Xiang Ning
-Email: recruitment@cares.cam.ac.uk 
+</br>Contact Person: Ms Leong Xiang Ning
+</br>Email: recruitment@cares.cam.ac.uk 
 
 E2S2 (Energy and Environmental Sustainability) 
-Contact Person: Ms Wang Bingfang 
-Email: eriwb@nus.edu.sg 
+</br>Contact Person: Ms Wang Bingfang 
+</br>Email: eriwb@nus.edu.sg 
 
 SEC-FCL (Urban Design and Territorial Planning) 
-SEC-FRS (Resilient Systems) 
-Contact Person: Ms Faizah Noor 
-Email: noor@arch.ethz.ch 
+</br>SEC-FRS (Resilient Systems) 
+</br>Contact Person: Ms Faizah Noor 
+</br>Email: noor@arch.ethz.ch 
 
 SHARE-MMID (Cellular and Molecular Inflammations) 
-SHARE-NEW (Nanomaterials for Energy and Water Management) 
-Contact Person: Ms Tali Cliff Tavor 
-Email: tcliff@share-huj.com 
+</br>SHARE-NEW (Nanomaterials for Energy and Water Management) 
+</br>Contact Person: Ms Tali Cliff Tavor 
+</br>Email: tcliff@share-huj.com 
 
 SMART-AMR (Antimicrobial Resistance) 
-SMART-BioSyM (Biosystems and Micromechanics) 
-SMART-DISTAP (Agricultural Precision) 
-SMART-FM (Urban Mobility) 
-SMART-LEES (Low Energy Electronic Systems) 
-Contact Person: Ms Jocelyn Sales 
-Email: jsales@mit.edu 
+</br>SMART-BioSyM (Biosystems and Micromechanics) 
+</br>SMART-DISTAP (Agricultural Precision) 
+</br>SMART-FM (Urban Mobility) 
+</br>SMART-LEES (Low Energy Electronic Systems) 
+</br>Contact Person: Ms Jocelyn Sales 
+</br>Email: jsales@mit.edu 
 
 TUM-CREATE (Urban Mobility) 
-Contact Person: Ms Carol Lim 
-Email: carol.lim@tum-create.edu.sg 
+</br>Contact Person: Ms Carol Lim 
+</br>Email: carol.lim@tum-create.edu.sg 
 
 TSCP hosted by ILATSG (Cybersecurity) 
-Contact Person: Ms Pauline Wee 
-Email: Pauline.Wee@adsc.com.sg
+</br>Contact Person: Ms Pauline Wee 
+</br>Email: Pauline.Wee@adsc.com.sg
 
-3.
-How can I find out more about the research carried out in CREATE?
-You can find out more about CREATE programmes and technologies developed through the CREATE website at www.create.edu.sg and the CREATE facebook page at https://www.facebook.com/create.edu.sg. More details can be found at https://www.create.edu.sg/about-create/research-centres. In addition, CREATE organises monthly PI seminar series where PIs from the CREATE programmes give talks about their research.
+### 3. How can I find out more about the research carried out in CREATE?
+You can find out more about CREATE programmes and technologies developed through the CREATE website at [www.create.edu.sg](www.create.edu.sg) and the CREATE facebook page at [https://www.facebook.com/create.edu.sg](https://www.facebook.com/create.edu.sg). More details can be found at [https://www.create.edu.sg/about-create/research-centres](https://www.create.edu.sg/about-create/research-centres). In addition, CREATE organises monthly PI seminar series where PIs from the CREATE programmes give talks about their research.
  
-4.
-Is it possible for my organisation to visit the CREATE laboratories?
+### 4. Is it possible for my organisation to visit the CREATE laboratories?
 You may submit a request to the respective CREATE point of contacts listed below:
 
 BEARS
-Contact Person: Mr Keith Tan
-Email: keith.tan@bears-berkeley.sg
+</br>Contact Person: Mr Keith Tan
+</br>Email: keith.tan@bears-berkeley.sg
 
 CARES
-Contact Person: Ms Joy Haughton
-Email: Joy.Haughton@admin.cam.ac.uk
+</br>Contact Person: Ms Joy Haughton
+</br>Email: Joy.Haughton@admin.cam.ac.uk
 
 E2S2
-Contact Person: Ms Wang Bingfang
-Email: eriwb@nus.edu.sg
+</br>Contact Person: Ms Wang Bingfang
+</br>Email: eriwb@nus.edu.sg
 
 SEC
-Contact Person: Ms Faizah Noor
-Email: noor@arch.ethz.ch
+</br>Contact Person: Ms Faizah Noor
+</br>Email: noor@arch.ethz.ch
 
 SHARE
-Contact Person: Ms Tali Cliff Tavor
-Email: tcliff@share-huj.com
+</br>Contact Person: Ms Tali Cliff Tavor
+</br>Email: tcliff@share-huj.com
 
 SMART
-Contact Person: Ms Jocelyn Sales
-Email: jsales@mit.edu
+</br>Contact Person: Ms Jocelyn Sales
+</br>Email: jsales@mit.edu
 
 TUM-CREATE
-Contact Person: Ms Carol Lim
-Email: carol.lim@tum-create.edu.sg
+</br>Contact Person: Ms Carol Lim
+</br>Email: carol.lim@tum-create.edu.sg
 
 TSCP hosted by ILATSG
-Contact Person: Ms Pauline Wee
-Email: Pauline.Wee@adsc.com.sg
+</br>Contact Person: Ms Pauline Wee
+</br>Email: Pauline.Wee@adsc.com.sg
