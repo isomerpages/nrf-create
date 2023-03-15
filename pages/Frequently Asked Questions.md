@@ -10,8 +10,8 @@ CREATE is an international research campus of institutional partnerships with le
 Please contact the respective CREATE point of contacts listed below:  
 
 BEARS - SinBerBEST (Building Energy Efficiency) 
-</br>Contact Person: Mr Keith Tan 
-</br>Email: [keith.tan@bears-berkeley.sg](keith.tan@bears-berkeley.sg) 
+<br>Contact Person: Mr Keith Tan 
+<br>Email: [keith.tan@bears-berkeley.sg](keith.tan@bears-berkeley.sg) 
 
 CARES-C4T (Carbon Reduction) 
 </br>Contact Person: Ms Leong Xiang Ning
