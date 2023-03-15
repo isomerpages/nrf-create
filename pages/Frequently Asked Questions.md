@@ -54,33 +54,33 @@ You can find out more about CREATE programmes and technologies developed through
 You may submit a request to the respective CREATE point of contacts listed below:
 
 BEARS
-</br>Contact Person: Mr Keith Tan
-</br>Email: keith.tan@bears-berkeley.sg
+Contact Person: Mr Keith Tan<br/>
+Email: keith.tan@bears-berkeley.sg<br/>
 
 CARES
-</br>Contact Person: Ms Joy Haughton
-</br>Email: Joy.Haughton@admin.cam.ac.uk
+Contact Person: Ms Joy Haughton
+Email: Joy.Haughton@admin.cam.ac.uk
 
 E2S2
-</br>Contact Person: Ms Wang Bingfang
-</br>Email: eriwb@nus.edu.sg
+Contact Person: Ms Wang Bingfang
+Email: eriwb@nus.edu.sg
 
 SEC
-</br>Contact Person: Ms Faizah Noor
-</br>Email: noor@arch.ethz.ch
+Contact Person: Ms Faizah Noor
+Email: noor@arch.ethz.ch
 
 SHARE
-</br>Contact Person: Ms Tali Cliff Tavor
-</br>Email: tcliff@share-huj.com
+Contact Person: Ms Tali Cliff Tavor
+Email: tcliff@share-huj.com
 
 SMART
-</br>Contact Person: Ms Jocelyn Sales
-</br>Email: jsales@mit.edu
+Contact Person: Ms Jocelyn Sales
+Email: jsales@mit.edu
 
 TUM-CREATE
-</br>Contact Person: Ms Carol Lim
-</br>Email: carol.lim@tum-create.edu.sg
+Contact Person: Ms Carol Lim
+Email: carol.lim@tum-create.edu.sg
 
 TSCP hosted by ILATSG
-</br>Contact Person: Ms Pauline Wee
-</br>Email: Pauline.Wee@adsc.com.sg
+Contact Person: Ms Pauline Wee
+Email: Pauline.Wee@adsc.com.sg
