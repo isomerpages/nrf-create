@@ -9,41 +9,40 @@ CREATE is an international research campus of institutional partnerships with le
 ### 2. I am interested in a career with CREATE. How do I apply?
 Please contact the respective CREATE point of contacts listed below:  
 
-BEARS - SinBerBEST (Building Energy Efficiency) 
+**BEARS - SinBerBEST (Building Energy Efficiency) **
 Contact Person: Mr Keith Tan<br/>
 Email: [keith.tan@bears-berkeley.sg](keith.tan@bears-berkeley.sg)<br/> 
 
-CARES-C4T (Carbon Reduction) 
+**CARES-C4T (Carbon Reduction) **
 Contact Person: Ms Leong Xiang Ning<br/>
 Email: [recruitment@cares.cam.ac.uk ](recruitment@cares.cam.ac.uk )<br/>
 
-E2S2 (Energy and Environmental Sustainability) 
+**E2S2 (Energy and Environmental Sustainability) **
 Contact Person: Ms Wang Bingfang <br/>
 Email: [eriwb@nus.edu.sg](eriwb@nus.edu.sg)<br/>
 
-SEC-FCL (Urban Design and Territorial Planning) 
-SEC-FRS (Resilient Systems) <br/> 
+**SEC-FCL (Urban Design and Territorial Planning) 
+SEC-FRS (Resilient Systems)** <br/> 
 Contact Person: Ms Faizah Noor <br/> 
 Email: [noor@arch.ethz.ch](noor@arch.ethz.ch) <br/> 
 
-SHARE-MMID (Cellular and Molecular Inflammations) 
-SHARE-NEW (Nanomaterials for Energy and Water Management) <br/> 
+**SHARE-MMID (Cellular and Molecular Inflammations) SHARE-NEW (Nanomaterials for Energy and Water Management)** <br/> 
 Contact Person: Ms Tali Cliff Tavor <br/> 
 Email: [tcliff@share-huj.com](tcliff@share-huj.com) <br/> 
 
-SMART-AMR (Antimicrobial Resistance) 
+**SMART-AMR (Antimicrobial Resistance) 
 SMART-BioSyM (Biosystems and Micromechanics) <br/> 
 SMART-DISTAP (Agricultural Precision) <br/> 
 SMART-FM (Urban Mobility) <br/>
-SMART-LEES (Low Energy Electronic Systems) <br/> 
+SMART-LEES (Low Energy Electronic Systems)** <br/> 
 Contact Person: Ms Jocelyn Sales <br/> 
 Email: [jsales@mit.edu](jsales@mit.edu) <br/> 
 
-TUM-CREATE (Urban Mobility) 
+**TUM-CREATE (Urban Mobility) **
 Contact Person: Ms Carol Lim <br/> 
 Email: [carol.lim@tum-create.edu.sg](carol.lim@tum-create.edu.sg)<br/> 
 
-TSCP hosted by ILATSG (Cybersecurity) 
+**TSCP hosted by ILATSG (Cybersecurity)** 
 Contact Person: Ms Pauline Wee <br/> 
 Email: [Pauline.Wee@adsc.com.sg](Pauline.Wee@adsc.com.sg)<br/> 
 
@@ -53,34 +52,34 @@ You can find out more about CREATE programmes and technologies developed through
 ### 4. Is it possible for my organisation to visit the CREATE laboratories?
 You may submit a request to the respective CREATE point of contacts listed below:
 
-BEARS
+**BEARS**
 Contact Person: Mr Keith Tan<br/>
 Email: keith.tan@bears-berkeley.sg<br/>
 
-CARES
+**CARES**
 Contact Person: Ms Joy Haughton
 Email: Joy.Haughton@admin.cam.ac.uk
 
-E2S2
+**E2S2**
 Contact Person: Ms Wang Bingfang
 Email: eriwb@nus.edu.sg
 
-SEC
+**SEC**
 Contact Person: Ms Faizah Noor
 Email: noor@arch.ethz.ch
 
-SHARE
+**SHARE**
 Contact Person: Ms Tali Cliff Tavor
 Email: tcliff@share-huj.com
 
-SMART
+**SMART**
 Contact Person: Ms Jocelyn Sales
 Email: jsales@mit.edu
 
-TUM-CREATE
+**TUM-CREATE**
 Contact Person: Ms Carol Lim
 Email: carol.lim@tum-create.edu.sg
 
-TSCP hosted by ILATSG
+**TSCP hosted by ILATSG**
 Contact Person: Ms Pauline Wee
 Email: Pauline.Wee@adsc.com.sg
