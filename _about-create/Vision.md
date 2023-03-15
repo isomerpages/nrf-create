@@ -6,13 +6,15 @@ description: ""
 ## CREATE’s Vision
 ---------------
 
+
+[![Alt text](/images/About%20Create/CreateVisionYTimage.png)](https://safe.menlosecurity.com/https://www.youtube.com/watch?v=fsBoM23PKMs&t=1s)
 [Link to video](https://safe.menlosecurity.com/https://www.youtube.com/watch?v=fsBoM23PKMs&t=1s)
 
 *Note: Example syntax for video*
-[![Alt text](/images/About%20Create/CreateVisionYTimage.png)](https://safe.menlosecurity.com/https://www.youtube.com/watch?v=fsBoM23PKMs&t=1s)
+![](/images/CreateHomepage.png)
 
-This is a new paragraph - 
-
+CREATE’s Vision
+---------------
 
 An international collaboratory of research centres set up by top global universities and research institutes in Singapore that will:
 
