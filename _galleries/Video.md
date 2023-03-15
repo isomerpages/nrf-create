@@ -3,4 +3,4 @@ title: Video
 permalink: /galleries/video/
 description: ""
 ---
-The [Video Gallery](/media/video/) can be accessed here.
+The Video Gallery can be accessed from [Media](/media/video/).
