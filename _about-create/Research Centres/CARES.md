@@ -65,4 +65,18 @@ The project aims to harness rapidly growing and diversifying data streams to imp
 ![Download the CLIC Factsheet](/images/Research%20Centres/clic-fact-sheet-front.jpg)
 
 
+**Contact Us**  
+Website:  
+[http://www.cares.cam.ac.uk](http://www.cares.cam.ac.uk/)
 
+Tel: +65 6601 5445
+
+**Where to Find Us**  
+1 Create Way  
+CREATE Tower, #05-05  
+Singapore 138602
+
+**Publications**  
+Website:  
+[https://www.cares.cam.ac.uk  
+/publications/](https://www.cares.cam.ac.uk/publications/)
