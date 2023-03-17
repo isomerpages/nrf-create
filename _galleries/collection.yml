@@ -2,6 +2,7 @@ collections:
   galleries:
     output: true
     order:
+      - Demonstrable Technology.md
       - Photo/.keep
       - Photo/CREATE Laboratory of the Year.md
       - Video.md
