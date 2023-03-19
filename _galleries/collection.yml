@@ -2,6 +2,7 @@ collections:
   galleries:
     output: true
     order:
+      - Video/CREATE Symposium 2021 Keynote Address by Dr Limin Hee (CLC).md
       - Video/.keep
       - Demonstrable Technology.md
       - Photo/.keep
