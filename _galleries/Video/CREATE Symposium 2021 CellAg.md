@@ -6,7 +6,7 @@ third_nav_title: Video
 ---
 [CREATE Symposium 2021 - CellAg by Prof Namjoon Cho & Prof Assaf Friedler - YouTube](https://www.youtube.com/embed/-Qx020CeqBU?html5=1&rel=0)
 
-![CREATE Symposium 2021 - CellAg](https://img.youtube.com/vi/-Qx020CeqBU/default.jpg)
+![](/images/default%20(12).jpg)
 10 Mar 2021
 
 
