@@ -4,10 +4,9 @@ permalink: /galleries/video/createcorporatevideo/
 description: ""
 third_nav_title: Video
 ---
-
 [CREATE Corporate Video - YouTube](https://www.youtube.com/embed/QUX32Wp0FiA?html5=1&rel=0)
 
-![CREATE Corporate Video](https://img.youtube.com/vi/QUX32Wp0FiA/default.jpg)
+![](/images/default%20(4).jpg)
 01 Jun 2014
 
 
