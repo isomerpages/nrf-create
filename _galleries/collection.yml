@@ -4,6 +4,9 @@ collections:
     order:
       - Photo/.keep
       - Photo/CREATE Laboratory of the Year.md
+      - Video/.keep
+      - Video/CREATE Symposium 2021 Keynote Address by Dr Limin Hee (CLC).md
+      - Video/CREATE Symposium 2021 SinBerWELL.md
       - Video/CREATE Symposium 2021 CellAg.md
       - Video/CREATE Symposium 2021 SCAN.md
       - Video/CREATE Symposium 2021 Proteins4Singapore.md
@@ -16,7 +19,4 @@ collections:
       - Video/Cheap water quality sensor (in Mandarin).md
       - Video/Driverless electric cars to take you around?.md
       - Video/See this autonomous vehicle in action!.md
-      - Video/.keep
-      - Video/CREATE Symposium 2021 Keynote Address by Dr Limin Hee (CLC).md
-      - Video/CREATE Symposium 2021 SinBerWELL.md
       - Demonstrable Technology.md
