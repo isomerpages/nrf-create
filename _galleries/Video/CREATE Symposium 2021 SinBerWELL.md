@@ -11,4 +11,4 @@ third_nav_title: Video
 10 Mar 2021
 
 
-SinBerWELL: Singapore-Berkeley Center for City Sustainability and Liveability by Prof Stefano Schiavon & Prof Daniel Rodriguez (UC...
+SinBerWELL: Singapore-Berkeley Center for City Sustainability and Liveability by Prof Stefano Schiavon & Prof Daniel Rodriguez (UCB)
