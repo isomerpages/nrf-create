@@ -9,4 +9,4 @@ third_nav_title: Video
 ![](/images/default%20(8).jpg)
 01 Dec 2020
 
-Welcome remarks of the CREATE Mobility Symposium 2020, co-organised by SMART, TUMCREATE and SE...
+Welcome remarks of the CREATE Mobility Symposium 2020, co-organised by SMART, TUMCREATE and SEC.
