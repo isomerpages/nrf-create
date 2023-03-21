@@ -11,4 +11,4 @@ third_nav_title: Video
 
 
 
-This video features the SMART FM IRG autonomous vehicle performing parking from a random drop poin...
+This video features the SMART FM IRG autonomous vehicle performing parking from a random drop point.
