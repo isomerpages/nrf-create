@@ -10,4 +10,4 @@ third_nav_title: Video
 10 Mar 2021
 
 
-CellAg: Bioengineering Tools for Next-Generation Cellular Agriculture by Prof Namjoon Cho (NTU) & Prof Assaf Friedler (HU...
+CellAg: Bioengineering Tools for Next-Generation Cellular Agriculture by Prof Namjoon Cho (NTU) & Prof Assaf Friedler (HUJ)
