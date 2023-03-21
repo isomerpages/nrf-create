@@ -9,4 +9,4 @@ third_nav_title: Video
 ![](/images/default%20(6).jpg)
 01 Dec 2020
 
-SMART Future Urban Mobility programme “Computing, Behavioural Science and Urban Mobility: Integrated Solution to Singapore&#39;s Mobility Challenges” by Professor Zhao Jinhu...
+SMART Future Urban Mobility programme “Computing, Behavioural Science and Urban Mobility: Integrated Solution to Singapore&#39;s Mobility Challenges” by Professor Zhao Jinhua.
