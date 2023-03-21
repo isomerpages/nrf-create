@@ -9,4 +9,4 @@ third_nav_title: Video
 ![](/images/default%20(11).jpg)
 10 Mar 2021
 
-Sustainable Cities in the Anthropocene (SCAN) through nature-based, engineering and data-driven integrative urban planning by Prof Heng Chye Kiang (NUS) & Prof Sun Lingyun (ZJ...
+Sustainable Cities in the Anthropocene (SCAN) through nature-based, engineering and data-driven integrative urban planning by Prof Heng Chye Kiang (NUS) & Prof Sun Lingyun (ZJU)
