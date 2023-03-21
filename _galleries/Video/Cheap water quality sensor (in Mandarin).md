@@ -10,4 +10,4 @@ third_nav_title: Video
 18 Feb 2014
 
 
-This cheap water quality sensor was developed by researchers from Singapore-MIT Alliance for Research and Technology (SMART), and can detect more than 100 different organic and inorganic contaminant...
+This cheap water quality sensor was developed by researchers from Singapore-MIT Alliance for Research and Technology (SMART), and can detect more than 100 different organic and inorganic contaminants.
