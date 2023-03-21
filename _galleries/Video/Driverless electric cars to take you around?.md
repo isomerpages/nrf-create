@@ -10,4 +10,4 @@ third_nav_title: Video
 29 Jan 2014
 
 
-With a few taps on your phone, this driverless car, developed by researchers from SMART, could swing by to take you to your destinatio..
+With a few taps on your phone, this driverless car, developed by researchers from SMART, could swing by to take you to your destination.
