@@ -10,4 +10,4 @@ third_nav_title: Video
 01 Jun 2014
 
 
-CREATE is an international collaboratory of research centres set up by top global universities and research institutes in Singapore. Watch this video to find out more about what we d...
+CREATE is an international collaboratory of research centres set up by top global universities and research institutes in Singapore. Watch this video to find out more about what we do!
