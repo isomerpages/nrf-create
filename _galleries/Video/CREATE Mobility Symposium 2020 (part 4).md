@@ -9,4 +9,4 @@ third_nav_title: Video
 ![](/images/default%20(3).jpg)
 01 Dec 2020
 
-SEC Future Cities Laboratory programme “Urban Design for Autonomous Vehicles - Key Insights” by Dr Pieter Fouri...
+SEC Future Cities Laboratory programme “Urban Design for Autonomous Vehicles - Key Insights” by Dr Pieter Fourie.
