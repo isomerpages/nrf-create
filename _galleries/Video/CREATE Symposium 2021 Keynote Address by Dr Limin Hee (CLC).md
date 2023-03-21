@@ -9,5 +9,4 @@ third_nav_title: Video
 ![](/images/default%20(2).jpg)
 10 Mar 2021
 
-
-Science of Sustainable Cities: Leveraging the Science of Cities for Liveability, Sustainability & Resilience by Dr Limin Hee (Centre for Liveable Citie...
+Science of Sustainable Cities: Leveraging the Science of Cities for Liveability, Sustainability & Resilience by Dr Limin Hee (Centre for Liveable Cities)
