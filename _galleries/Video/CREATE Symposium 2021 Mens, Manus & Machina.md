@@ -10,4 +10,4 @@ third_nav_title: Video
 10 Mar 2021
 
 
-Mens, Manus & Machina: How AI Empowers People, Institutions and Cities by Prof Daniela Rus & Prof Zhao Jinhua (MI...
+Mens, Manus & Machina: How AI Empowers People, Institutions and Cities by Prof Daniela Rus & Prof Zhao Jinhua (MIT)
