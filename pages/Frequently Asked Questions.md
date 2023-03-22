@@ -57,29 +57,29 @@ Contact Person: Mr Keith Tan<br/>
 Email: keith.tan@bears-berkeley.sg<br/>
 
 **CARES**
-Contact Person: Ms Joy Haughton
-Email: Joy.Haughton@admin.cam.ac.uk
+Contact Person: Ms Joy Haughton<br/>
+Email: Joy.Haughton@admin.cam.ac.uk<br/>
 
 **E2S2**
-Contact Person: Ms Wang Bingfang
-Email: eriwb@nus.edu.sg
+Contact Person: Ms Wang Bingfang<br/>
+Email: eriwb@nus.edu.sg<br/>
 
 **SEC**
-Contact Person: Ms Faizah Noor
-Email: noor@arch.ethz.ch
+Contact Person: Ms Faizah Noor<br/>
+Email: noor@arch.ethz.ch<br/>
 
 **SHARE**
-Contact Person: Ms Tali Cliff Tavor
-Email: tcliff@share-huj.com
+Contact Person: Ms Tali Cliff Tavor<br/>
+Email: tcliff@share-huj.com<br/>
 
 **SMART**
-Contact Person: Ms Jocelyn Sales
-Email: jsales@mit.edu
+Contact Person: Ms Jocelyn Sales<br/>
+Email: jsales@mit.edu<br/>
 
 **TUM-CREATE**
-Contact Person: Ms Carol Lim
-Email: carol.lim@tum-create.edu.sg
+Contact Person: Ms Carol Lim<br/>
+Email: carol.lim@tum-create.edu.sg<br/>
 
 **TSCP hosted by ILATSG**
-Contact Person: Ms Pauline Wee
-Email: Pauline.Wee@adsc.com.sg
+Contact Person: Ms Pauline Wee<br/>
+Email: Pauline.Wee@adsc.com.sg<br/>
