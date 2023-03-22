@@ -1,6 +1,0 @@
-collections:
-  news:
-    output: true
-    order:
-      - News Reports/.keep
-      - Press Releases/.keep
