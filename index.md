@@ -37,13 +37,13 @@ sections:
       title: Research Areas
   - infopic:
       button: FIND OUT MORE
-      url: /research-areas/ResearchAreas/EnvironmentSystems/permalink/
+      url: /research-areas/environment-systems
       image: /images/Research Areas/CREATEHomepage image1.png
       alt: Image alt text
       title: Environment system
   - infopic:
       button: FIND OUT MORE
-      url: /research-areas/EnergySystems/permalink/
+      url: /research-areas/energy-systems
       alt: Image alt text
       image: /images/Research Areas/CREATEHomepage image2.png
       title: Energy System
@@ -64,5 +64,3 @@ sections:
       button: List of Partners
       url: /partners
 ---
-
-
