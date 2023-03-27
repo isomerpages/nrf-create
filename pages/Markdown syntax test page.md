@@ -52,18 +52,21 @@ While it's not possible to embed video in markdown, the best and easiest way is 
 <div style="background-color: #ffd966; padding : 20px; width: 50%">
 
 ![](/images/isomer-logo.svg)
+	
 </div>
 
 Percentage:
 <div style="width: 75%">
 
 ![](/images/isomer-logo.svg)
+	
 </div>
 
 Fixed width size:
 <div style="width: 300px">
 
 ![](/images/isomer-logo.svg)
+
 </div>
 
 Original size
