@@ -65,7 +65,10 @@ Percentage:
 
 
 Fixed width size:
-<img src="/images/isomer-logo.svg" width="300px" >
+<div style="width: 200px">
+
+![](/images/isomer-logo.svg)	
+</div>
 
 Original size
 ![](/images/isomer-logo.svg)
