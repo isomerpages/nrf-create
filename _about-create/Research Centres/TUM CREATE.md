@@ -4,9 +4,17 @@ permalink: /about-create/research-centres/tum-create/
 description: ""
 third_nav_title: Research Centres
 ---
+<div style="width: 250px">
+	
 ![](/images/tum1.jpg)
+	
+</div>
+
+<div style="width: 450px">
 
 ![](/images/tum2.jpg)
+	
+</div>
 # About TUM CREATE
 
 TUM CREATE is an electromobility research project undertaken by two world-leading universities, Germany’s Technische Universität München (TUM) and Singapore’s Nanyang Technological University (NTU), funded by the National Research Foundation of Singapore. TUM CREATE is part of NRF’s Campus for Research Excellence And Technological Enterprise. 
