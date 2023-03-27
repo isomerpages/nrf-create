@@ -4,12 +4,10 @@ permalink: /about-create/research-centres/bears/
 description: ""
 third_nav_title: Research Centres
 ---
-
 ![](/images/Research%20Centres/BEARS/beaimg1.jpg)
 ![](/images/Research%20Centres/BEARS/bearimg2.jpg)
 
-ABOUT BEARS
------------
+# ABOUT BEARS
 
 The Berkeley Education Alliance for Research in Singapore (BEARS) center is a University of California center for research, graduate education, and innovation with the goal of achieving an international reputation.  BEARS serves as an intellectual hub for interactions between UC Berkeley researchers and their counterparts from universities, polytechnics, research institutes, and industry in Singapore and Asia. Collaborations have already been established with Nanyang Technological University (NTU) and the National University of Singapore (NUS). BEARS will develop a broad network of partnerships and relationships with government agencies, universities, and industries in Singapore and in the region beyond. UC Berkeley expects the impact of BEARS to be the creation of new industry sectors in information technology, energy technologies, engineering, construction and related areas.
 
@@ -71,7 +69,3 @@ Singapore 138602
 
 **Publications**  
 https://sinberbest.berkeley.edu/archive/publications
-
-
-
-
