@@ -4,15 +4,9 @@ permalink: /about-create/research-centres/tum-create/
 description: ""
 third_nav_title: Research Centres
 ---
-<div style="width: 250px">
-	
 ![](/images/tum1.jpg)
-</div>
-
-<div style="width: 450px">
 
 ![](/images/tum2.jpg)
-</div>
 
 # About TUM CREATE
 
@@ -28,11 +22,7 @@ At TUM CREATE over 120 scientists, researchers and engineers from more than 20 c
 Our research will help to improve Singapore’s roadways, vehicles and public transport network.
 
 [Download the TUM CREATE Factsheet](/files/TUMCREATE.pdf)
-
-<div style="width: 240px">
-	
 ![](/images/tum3.jpg)
-</div>
 
 **Contact Us**  
 General Line: +65 6601 4015  
