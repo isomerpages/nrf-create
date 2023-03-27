@@ -7,13 +7,11 @@ third_nav_title: Research Centres
 <div style="width: 250px">
 	
 ![](/images/tum1.jpg)
-	
 </div>
 
 <div style="width: 450px">
 
 ![](/images/tum2.jpg)
-	
 </div>
 
 # About TUM CREATE
@@ -34,7 +32,6 @@ Our research will help to improve Singapore’s roadways, vehicles and public tr
 <div style="width: 240px">
 	
 ![](/images/tum3.jpg)
-
 </div>
 
 **Contact Us**  
