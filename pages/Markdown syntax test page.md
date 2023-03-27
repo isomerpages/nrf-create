@@ -44,3 +44,13 @@ This is a place holder for a section example under Title 2
 <b> Youtube videos </b> <br/>
 While it's not possible to embed video in markdown, the best and easiest way is to extract a frame from the video and link the video url on the image. 
 [![Alt text](/images/About%20Create/CreateVisionYTimage.png)](https://safe.menlosecurity.com/https://www.youtube.com/watch?v=fsBoM23PKMs&t=1s)
+
+Test image:
+
+<div style="background-color: #ffd966; padding : 20px">
+
+![](/images/isomer-logo.svg)
+
+</div>
+
+![](/images/isomer-logo.svg)
