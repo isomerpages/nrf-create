@@ -23,3 +23,5 @@ ___
 *   [Technische Universität München (TUM) CREATE](https://www.create.edu.sg/about-create/research-centres/tum-create)
 
 *   [Trustworthy and Secure Cyber Plexus (TSCP) hosted by ILATSG](https://www.create.edu.sg/about-create/research-centres/tscp-hosted-by-ilatsg)
+
+*   [CNRS@CREATE](https://staging.doozjsv00xhnm.amplifyapp.com/about-create/research-centres/cnrscreate/)
