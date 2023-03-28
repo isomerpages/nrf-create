@@ -2,5 +2,6 @@ collections:
   research-centres-folder:
     output: true
     order:
+      - CNRS@CREATE.md
       - CARES.md
       - BEARS.md
