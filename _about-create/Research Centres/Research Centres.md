@@ -16,7 +16,7 @@ ___
 
 *   [Energy and Environmental Sustainability Solutions for Megacities (E2S2)](https://staging.d1oc0a5mwkwsyb.amplifyapp.com/about-create/research-centres/e2s2/)
 
-*   [Singapore-HUJ Alliance for Research and Enterprise (SHARE)](https://www.create.edu.sg/about-create/research-centres/nus-huj-create)
+*   [Singapore-HUJ Alliance for Research and Enterprise (SHARE)](https://staging.dr0tvixrfwq7.amplifyapp.com/about-create/research-centres/nus-huj-create/)
 
 *   [Singapore-ETH Centre (SEC)](https://www.create.edu.sg/about-create/research-centres/sec)
 
