@@ -2,6 +2,7 @@ collections:
   research-centres-folder:
     output: true
     order:
+      - SingaporeETH Centre.md
       - SMART.md
       - SHARE.md
       - Our People.md
