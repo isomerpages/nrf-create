@@ -2,6 +2,7 @@ collections:
   research-centres-folder:
     output: true
     order:
+      - TSCP hosted by ILATSG.md
       - SingaporeETH Centre.md
       - SMART.md
       - SHARE.md
