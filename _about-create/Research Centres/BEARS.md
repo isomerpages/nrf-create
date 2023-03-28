@@ -55,6 +55,10 @@ There are about 60 researchers in SinBeRISE, consisting of post-doctoral fellows
 ![](/images/bears2.jpg)
 
 
+
+[](/files/bear1.pdf)
+
+
 **Contact Us**  
 General Line: +65 6601 3195  
 Website: [http://bears.berkeley.edu/](http://sinberbest.berkeley.edu/)
