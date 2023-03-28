@@ -18,7 +18,7 @@ ___
 
 *   [Singapore-HUJ Alliance for Research and Enterprise (SHARE)](https://staging.dr0tvixrfwq7.amplifyapp.com/about-create/research-centres/nus-huj-create/)
 
-*   [Singapore-ETH Centre (SEC)](https://www.create.edu.sg/about-create/research-centres/sec)
+*   [Singapore-ETH Centre (SEC)](https://staging.dgjaeobrbyib8.amplifyapp.com/about-create/research-centres/sec/)
 
 *   [Singapore-MIT Alliance for Research and Technology (SMART)](https://staging.d1y086cfm99k88.amplifyapp.com/)
 
