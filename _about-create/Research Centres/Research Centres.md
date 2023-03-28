@@ -14,7 +14,7 @@ ___
 
 *   [CNRS@CREATE](https://staging.doozjsv00xhnm.amplifyapp.com/about-create/research-centres/cnrscreate/)
 
-*   [Energy and Environmental Sustainability Solutions for Megacities (E2S2)](https://www.create.edu.sg/about-create/research-centres/e2s2)
+*   [Energy and Environmental Sustainability Solutions for Megacities (E2S2)](https://staging.d1oc0a5mwkwsyb.amplifyapp.com/about-create/research-centres/e2s2/)
 
 *   [Singapore-HUJ Alliance for Research and Enterprise (SHARE)](https://www.create.edu.sg/about-create/research-centres/nus-huj-create)
 
