@@ -2,6 +2,7 @@ collections:
   research-centres-folder:
     output: true
     order:
+      - Eco Solutions 2 (ES2).md
       - Eco Solutions 1 (ES1).md
       - E2S2.md
       - CNRS@CREATE.md
