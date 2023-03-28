@@ -1,4 +1,5 @@
 collections:
   research-centres-folder:
     output: true
-    order: []
+    order:
+      - BEARS.md
