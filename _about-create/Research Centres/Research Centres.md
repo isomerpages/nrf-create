@@ -20,7 +20,7 @@ ___
 
 *   [Singapore-ETH Centre (SEC)](https://staging.dgjaeobrbyib8.amplifyapp.com/about-create/research-centres/sec/)
 
-*   [Singapore-MIT Alliance for Research and Technology (SMART)](https://staging.d1y086cfm99k88.amplifyapp.com/)
+*   [Singapore-MIT Alliance for Research and Technology (SMART)](https://staging.d1y086cfm99k88.amplifyapp.com/about-create/research-centres/smart/)
 
 *   [Technische Universität München (TUM) CREATE](https://www.create.edu.sg/about-create/research-centres/tum-create)
 
