@@ -2,15 +2,15 @@ collections:
   research-centres-folder:
     output: true
     order:
-      - TUM CREATE.md
-      - TSCP hosted by ILATSG.md
+      - BEARS.md
+      - CARES.md
+      - E2S2.md
+      - Eco Solutions 1 (ES1).md
+      - Eco Solutions 2 (ES2).md
+      - Our People.md
+      - SHARE.md
       - SingaporeETH Centre.md
       - SMART.md
-      - SHARE.md
-      - Our People.md
-      - Eco Solutions 2 (ES2).md
-      - Eco Solutions 1 (ES1).md
-      - E2S2.md
+      - TUM CREATE.md
+      - TSCP hosted by ILATSG.md
       - CNRS@CREATE.md
-      - CARES.md
-      - BEARS.md
