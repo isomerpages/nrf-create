@@ -2,4 +2,5 @@ collections:
   research-centres-folder:
     output: true
     order:
+      - CARES.md
       - BEARS.md
