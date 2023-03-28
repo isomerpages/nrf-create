@@ -8,9 +8,9 @@ third_nav_title: Research Centres
 ___
 *Note: SMART link is to prototype link; rest are to existing sites*
 
-*   [Berkeley Education Alliance for Research in Singapore (BEARS)](https://staging.deqt4bb4eq7sw.amplifyapp.com/about-create/research-centres/bears/)
+*   [Berkeley Education Alliance for Research in Singapore (BEARS)](https://staging.deqt4bb4eq7sw.amplifyapp.com/about-create/research-centres/bears)
 
-*   [Cambridge Centre for Advanced Research and Education In Singapore (CARES)](https://www.create.edu.sg/about-create/research-centres/cares)
+*   [Cambridge Centre for Advanced Research and Education In Singapore (CARES)](https://staging.d29996xc3a9u4b.amplifyapp.com/about-create/research-centres/cares/)
 
 *   [Energy and Environmental Sustainability Solutions for Megacities (E2S2)](https://www.create.edu.sg/about-create/research-centres/e2s2)
 
