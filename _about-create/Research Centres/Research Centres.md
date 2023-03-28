@@ -4,14 +4,11 @@ permalink: /about-create/research-centres/
 description: ""
 third_nav_title: Research Centres
 ---
-
-
-
 ## Research Centres
 ___
 *Note: SMART link is to prototype link; rest are to existing sites*
 
-*   [Berkeley Education Alliance for Research in Singapore (BEARS)](https://www.create.edu.sg/about-create/research-centres/bears)
+*   [Berkeley Education Alliance for Research in Singapore (BEARS)](https://staging.deqt4bb4eq7sw.amplifyapp.com/about-create/research-centres/bears/)
 
 *   [Cambridge Centre for Advanced Research and Education In Singapore (CARES)](https://www.create.edu.sg/about-create/research-centres/cares)
 
