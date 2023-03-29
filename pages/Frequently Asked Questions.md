@@ -53,33 +53,33 @@ You can find out more about CREATE programmes and technologies developed through
 You may submit a request to the respective CREATE point of contacts listed below:
 
 **BEARS** <br/>
-Contact Person: Mr Keith Tan<br/>
-Email: keith.tan@bears-berkeley.sg<br/>
+Contact Person: Mr Keith Tan <br/>
+Email: keith.tan@bears-berkeley.sg <br/>
 
 **CARES** <br/>
-Contact Person: Ms Joy Haughton<br/>
-Email: Joy.Haughton@admin.cam.ac.uk<br/>
+Contact Person: Ms Joy Haughton <br/>
+Email: Joy.Haughton@admin.cam.ac.uk <br/>
 
 **E2S2** <br/>
-Contact Person: Ms Wang Bingfang<br/>
-Email: eriwb@nus.edu.sg<br/>
+Contact Person: Ms Wang Bingfang <br/>
+Email: eriwb@nus.edu.sg <br/>
 
 **SEC** <br/>
-Contact Person: Ms Faizah Noor<br/>
-Email: noor@arch.ethz.ch<br/>
+Contact Person: Ms Faizah Noor <br/>
+Email: noor@arch.ethz.ch <br/>
 
 **SHARE** <br/>
-Contact Person: Ms Tali Cliff Tavor<br/>
-Email: tcliff@share-huj.com<br/>
+Contact Person: Ms Tali Cliff Tavor <br/>
+Email: tcliff@share-huj.com <br/>
 
 **SMART** <br/>
-Contact Person: Ms Jocelyn Sales<br/>
-Email: jsales@mit.edu<br/>
+Contact Person: Ms Jocelyn Sales <br/>
+Email: jsales@mit.edu <br/>
 
 **TUM-CREATE** <br/>
-Contact Person: Ms Carol Lim<br/>
-Email: carol.lim@tum-create.edu.sg<br/>
+Contact Person: Ms Carol Lim <br/>
+Email: carol.lim@tum-create.edu.sg <br/>
 
 **TSCP hosted by ILATSG** <br/>
-Contact Person: Ms Pauline Wee<br/>
-Email: Pauline.Wee@adsc.com.sg<br/>
+Contact Person: Ms Pauline Wee <br/>
+Email: Pauline.Wee@adsc.com.sg <br/>
