@@ -5,7 +5,6 @@ description: ""
 ---
 ### In Brief
 
-  
 CREATE is working towards an evolved model of partnerships that encourages greater multi-lateral collaborations. The thematic grant call on the “Intersection of Public Health and the Environment” aims to promote research collaborations beyond the CREATE network by encouraging CREATE Partners to submit joint applications with Principal Investigators from other overseas universities.  
   
 Proposals should take into consideration Singapore’s unique context as a trade/travel hub with a highly dense multicultural urban population and limited land space to identify direct and indirect urban environmental drivers that affect the physical and mental health of various age groups within the Singapore population.  
@@ -15,12 +14,10 @@ Outcomes should include actionable recommendations, policies and/or intervention
 
 ###   Funding and Duration
 
-  
 Joint projects can be funded up to S$5 million over 3 years.  
 
 ###   Eligibility Criteria
 
-  
 *   Joint application by 2 Lead Principal Investigators (PI) with different primary institutional affiliations – at least 1 must be a CREATE Partner institution.
   
 *   Lead PIs/PIs from overseas universities need to spend an aggregate period of residence of at least 7 months in Singapore; and each residency stay shall be for a period of no less than 4 weeks on each occasion per year.
@@ -28,8 +25,6 @@ Joint projects can be funded up to S$5 million over 3 years.
 *   Proposals should include PIs or Co-Investigators from the Singapore autonomous universities or public sector R&D agency.
 
 ###   Application
-
-  
 
 *   The call for Whitepapers closes on 18 October 2022. Whitepapers should be submitted via email through the Host Institution’s Office of Research or equivalent.
   
