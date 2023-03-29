@@ -3,7 +3,6 @@ title: "Thematic Grant Call: Intersection of Public Health and the Environment"
 permalink: /about-create/thematic-grant-call-intersection-of-public-health-and-the-environment/
 description: ""
 ---
-
 ### In Brief
 
   
@@ -14,15 +13,12 @@ Proposals should take into consideration Singapore’s unique context as a trade
 Outcomes should include actionable recommendations, policies and/or interventions that integrate surveillance and prevention with better design of environmental and community spaces, socio-behavioural sciences, and/or effective communication strategies that will result in a positive impact on public health.  
   
 
-###   
-Funding and Duration
+###   Funding and Duration
 
   
 Joint projects can be funded up to S$5 million over 3 years.  
 
-###   
-  
-Eligibility Criteria
+###   Eligibility Criteria
 
   
 *   Joint application by 2 Lead Principal Investigators (PI) with different primary institutional affiliations – at least 1 must be a CREATE Partner institution.
@@ -31,9 +27,7 @@ Eligibility Criteria
   
 *   Proposals should include PIs or Co-Investigators from the Singapore autonomous universities or public sector R&D agency.
 
-###   
-  
-Application
+###   Application
 
   
 
@@ -48,7 +42,6 @@ For enquiries, please contact Dr Joanita Jasmen at [joanita\_jasmen@nrf.gov.sg]
 
 
 [Guidelines for Thematic Grant Call Application](/files/guidelines-for-thematic-grant-call-application.pdf)
- (pdf) 203 KB
  
  
-[Attachment 1. CREATE Thematic Call Whitepaper Template](https://www.create.edu.sg/docs/default-source/default-document-library/attachment-1-create-thematic-call-whitepaper-template.doc?sfvrsn=294c8e48_2) (doc, 190 KB)
+[Attachment 1. CREATE Thematic Call Whitepaper Template](https://www.create.edu.sg/docs/default-source/default-document-library/attachment-1-create-thematic-call-whitepaper-template.doc?sfvrsn=294c8e48_2)
