@@ -9,15 +9,15 @@ CREATE is an international research campus of institutional partnerships with le
 ### 2. I am interested in a career with CREATE. How do I apply?
 Please contact the respective CREATE point of contacts listed below:  
 
-**BEARS - SinBerBEST (Building Energy Efficiency)**
+**BEARS - SinBerBEST (Building Energy Efficiency)** <br/>
 Contact Person: Mr Keith Tan <br/>
 Email: [keith.tan@bears-berkeley.sg](keith.tan@bears-berkeley.sg) <br/> 
 
-**CARES-C4T (Carbon Reduction)**
+**CARES-C4T (Carbon Reduction)** <br/>
 Contact Person: Ms Leong Xiang Ning <br/>
 Email: [recruitment@cares.cam.ac.uk ](recruitment@cares.cam.ac.uk ) <br/>
 
-**E2S2 (Energy and Environmental Sustainability)**
+**E2S2 (Energy and Environmental Sustainability)** <br/>
 Contact Person: Ms Wang Bingfang <br/>
 Email: [eriwb@nus.edu.sg](eriwb@nus.edu.sg) <br/>
 
@@ -30,7 +30,7 @@ Email: [noor@arch.ethz.ch](noor@arch.ethz.ch) <br/>
 Contact Person: Ms Tali Cliff Tavor <br/> 
 Email: [tcliff@share-huj.com](tcliff@share-huj.com) <br/> 
 
-**SMART-AMR (Antimicrobial Resistance)**
+**SMART-AMR (Antimicrobial Resistance)** <br/>
 **SMART-BioSyM (Biosystems and Micromechanics)** <br/> 
 **SMART-DISTAP (Agricultural Precision)** <br/> 
 **SMART-FM (Urban Mobility)** <br/>
@@ -38,11 +38,11 @@ Email: [tcliff@share-huj.com](tcliff@share-huj.com) <br/>
 Contact Person: Ms Jocelyn Sales <br/> 
 Email: [jsales@mit.edu](jsales@mit.edu) <br/> 
 
-**TUM-CREATE (Urban Mobility)**
+**TUM-CREATE (Urban Mobility)** <br/>
 Contact Person: Ms Carol Lim <br/> 
 Email: [carol.lim@tum-create.edu.sg](carol.lim@tum-create.edu.sg) <br/> 
 
-**TSCP hosted by ILATSG (Cybersecurity)** 
+**TSCP hosted by ILATSG (Cybersecurity)** <br/>
 Contact Person: Ms Pauline Wee <br/> 
 Email: [Pauline.Wee@adsc.com.sg](Pauline.Wee@adsc.com.sg)<br/> 
 
@@ -52,34 +52,34 @@ You can find out more about CREATE programmes and technologies developed through
 ### 4. Is it possible for my organisation to visit the CREATE laboratories?
 You may submit a request to the respective CREATE point of contacts listed below:
 
-**BEARS**
+**BEARS** <br/>
 Contact Person: Mr Keith Tan<br/>
 Email: keith.tan@bears-berkeley.sg<br/>
 
-**CARES**
+**CARES** <br/>
 Contact Person: Ms Joy Haughton<br/>
 Email: Joy.Haughton@admin.cam.ac.uk<br/>
 
-**E2S2**
+**E2S2** <br/>
 Contact Person: Ms Wang Bingfang<br/>
 Email: eriwb@nus.edu.sg<br/>
 
-**SEC**
+**SEC** <br/>
 Contact Person: Ms Faizah Noor<br/>
 Email: noor@arch.ethz.ch<br/>
 
-**SHARE**
+**SHARE** <br/>
 Contact Person: Ms Tali Cliff Tavor<br/>
 Email: tcliff@share-huj.com<br/>
 
-**SMART**
+**SMART** <br/>
 Contact Person: Ms Jocelyn Sales<br/>
 Email: jsales@mit.edu<br/>
 
-**TUM-CREATE**
+**TUM-CREATE** <br/>
 Contact Person: Ms Carol Lim<br/>
 Email: carol.lim@tum-create.edu.sg<br/>
 
-**TSCP hosted by ILATSG**
+**TSCP hosted by ILATSG** <br/>
 Contact Person: Ms Pauline Wee<br/>
 Email: Pauline.Wee@adsc.com.sg<br/>
