@@ -5,7 +5,6 @@ description: ""
 ---
 ## Research Centres
 ___
-*Note: All links are to STAGING links*
 
 *   [Berkeley Education Alliance for Research in Singapore (BEARS)](https://staging.deqt4bb4eq7sw.amplifyapp.com/about-create/research-centres/bears)
 
