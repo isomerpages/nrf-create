@@ -8,7 +8,7 @@ The Urban Systems (i.e. energy and environmental sustainability, urban mobility,
 
 *   [Energy and Environmental Sustainability Solutions for Megacities (E2S2)](https://staging.d1oc0a5mwkwsyb.amplifyapp.com/about-create/research-centres/e2s2/)
 *   [SMART Future Urban Mobility (SMART-FM)](https://staging.d1y086cfm99k88.amplifyapp.com/about-create/research-centres/smart/)
-*   [SMART Disruptive, Sustainable Technologies for Agricultural Precision (SMART-DISTAP)](https://www.create.edu.sg/about-create/research-centres/smart)
+*   [SMART Disruptive, Sustainable Technologies for Agricultural Precision (SMART-DISTAP)](https://staging.d1y086cfm99k88.amplifyapp.com/about-create/research-centres/smart/)
 *   [Technische Universität München (TUM) CREATE](https://www.tum-create.edu.sg/)
-*   [Future Cities Laboratory (FCL) and Future Resilient Systems (FRS) of the Singapore-ETH Centre](https://www.create.edu.sg/about-create/research-centres/sec)
-*   [Trustworthy and Secure Cyber Plexus (TSCP) hosted by ILATSG](https://www.create.edu.sg/about-create/research-centres/tscp-hosted-by-ilatsg)
+*   [Future Cities Laboratory (FCL) and Future Resilient Systems (FRS) of the Singapore-ETH Centre](https://staging.dgjaeobrbyib8.amplifyapp.com/about-create/research-centres/sec/)
+*   [Trustworthy and Secure Cyber Plexus (TSCP) hosted by ILATSG](https://staging.dshw1nyzgktvi.amplifyapp.com/about-create/research-centres/tscp-hosted-by-ilatsg/)
