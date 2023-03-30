@@ -1,5 +1,4 @@
 collections:
   events:
     output: true
-    order:
-      - CREATE entities events pages.md
+    order: []
