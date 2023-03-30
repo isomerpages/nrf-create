@@ -18,7 +18,7 @@ ___
 
 *   [Singapore-MIT Alliance for Research and Technology (SMART)](https://staging.d1y086cfm99k88.amplifyapp.com/about-create/research-centres/smart/)
 
-*   [Technische Universität München (TUM) CREATE](https://staging.druoonnp8i8ie.amplifyapp.com/about-create/research-centres/tum-create/)
+*   [Technische Universität München (TUM) CREATE](https://www.tum-create.edu.sg/)
 
 *   [Trustworthy and Secure Cyber Plexus (TSCP) hosted by ILATSG](https://staging.dshw1nyzgktvi.amplifyapp.com/about-create/research-centres/tscp-hosted-by-ilatsg/)
 
