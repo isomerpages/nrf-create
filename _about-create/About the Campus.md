@@ -5,7 +5,8 @@ description: ""
 ---
 ## Overview
 --------
-![](/images/create%20tower%20replace%20image.png)
+
+![](/images/CreateHomepage.png)
 
 CREATE was officially opened by Singapore Prime Minister Lee Hsien Loong on 16 November 2012. Situated in the National University of Singapore’s University Town (NUS U-Town), CREATE is in the vicinity of the other Singapore high tech centres such as Biopolis, Fusionopolis and the Science Parks. It has a gross floor area of 67,000 square metres in four buildings that will house some 1,200 researchers.
 
