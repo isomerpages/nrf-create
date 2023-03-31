@@ -34,33 +34,9 @@ sections:
       title: News, Updates & Events
       button: FIND OUT MORE
   - infobar:
-      title: Research Areas
+      title: RESEARCH AREAS
       button: LIST OF RESEARCH AREAS
       url: /research-areas/research-areas/
-  - infopic:
-      button: FIND OUT MORE
-      url: /research-areas/environment-systems
-      image: /images/Research Areas/CREATEHomepage image1.png
-      alt: Image alt text
-      title: Environment system
-  - infopic:
-      button: FIND OUT MORE
-      url: /research-areas/energy-systems
-      alt: Image alt text
-      image: /images/Research Areas/CREATEHomepage image2.png
-      title: Energy System
-  - infopic:
-      title: Human System
-      button: Find out more
-      url: /research-areas/human-systems
-      alt: Image alt text
-      image: /images/Research Areas/Human System icon.jpg
-  - infopic:
-      title: Urban System
-      button: Find out more
-      url: /research-areas/urban-systems
-      image: /images/Research Areas/Urban System icon.jpg
-      alt: Image alt text
   - infobar:
       title: CREATE PARTNERS
       button: List of Partners
