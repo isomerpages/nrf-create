@@ -6,7 +6,6 @@ third_nav_title: Video
 ---
 [CREATE Symposium 2021 - Mens, Manus & Machina by Prof Daniela Rus & Prof Zhao Jinhua - YouTube](https://www.youtube.com/embed/h69TAyDPPZs?html5=1&rel=0)
 
-![](/images/default%20(9).jpg)
 10 Mar 2021
 
 
