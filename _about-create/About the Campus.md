@@ -21,6 +21,8 @@ The buildings at CREATE were designed to pioneer the use of environmental sustai
 
 ## Awards
 ------
-![](/images/create%20greenry%20replacement.png)
+
+
+![](/images/About%20Create/create%20greenery%20image.png)
 
 CREATE was named the “2013 Laboratory of the Year” by the US-based R&D Magazine. CREATE has been recognised for its excellence in research laboratory design, planning, and construction, and is the third R&D facility outside of the United States, and the first in East Asia to win this honour.
