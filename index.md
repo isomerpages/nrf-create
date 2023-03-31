@@ -35,6 +35,9 @@ sections:
       button: FIND OUT MORE
   - infobar:
       title: Research Areas
+      description: LIST OF RESEARCH AREAS
+      button: LIST OF RESEARCH AREAS
+      url: permalink
   - infopic:
       button: FIND OUT MORE
       url: /research-areas/environment-systems
