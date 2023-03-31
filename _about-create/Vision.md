@@ -3,15 +3,9 @@ title: Vision
 permalink: /about-create/vision/
 description: ""
 ---
-
-## CREATE’s Vision
----------------
-
-
 [![Alt text](/images/About%20Create/CreateVisionYTimage.png)](https://safe.menlosecurity.com/https://www.youtube.com/watch?v=fsBoM23PKMs&t=1s)
 [Link to video](https://safe.menlosecurity.com/https://www.youtube.com/watch?v=fsBoM23PKMs&t=1s)
 
-*Note: Example syntax for video*
 ![](/images/CreateHomepage.png)
 
 CREATE’s Vision
