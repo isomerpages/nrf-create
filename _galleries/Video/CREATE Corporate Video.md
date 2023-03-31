@@ -6,7 +6,6 @@ third_nav_title: Video
 ---
 [CREATE Corporate Video - YouTube](https://www.youtube.com/embed/QUX32Wp0FiA?html5=1&rel=0)
 
-![](/images/default%20(4).jpg)
 01 Jun 2014
 
 
