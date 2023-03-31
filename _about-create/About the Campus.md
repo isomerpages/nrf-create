@@ -3,12 +3,10 @@ title: About the Campus
 permalink: /about-create/about-the-campus/
 description: ""
 ---
-
-
-
 ## Overview
 --------
-![](/images/About%20Create/Createcampus.png)
+
+![](/images/About%20Create/create%20tower%20replace%20image%20(002).png)
 CREATE was officially opened by Singapore Prime Minister Lee Hsien Loong on 16 November 2012. Situated in the National University of Singapore’s University Town (NUS U-Town), CREATE is in the vicinity of the other Singapore high tech centres such as Biopolis, Fusionopolis and the Science Parks. It has a gross floor area of 67,000 square metres in four buildings that will house some 1,200 researchers.
 
 ## Features
@@ -23,5 +21,5 @@ The buildings at CREATE were designed to pioneer the use of environmental sustai
 
 ## Awards
 ------
-![](/images/sky-garden.png)
+![](/images/About%20Create/create%20greenry%20replacement.png)
 CREATE was named the “2013 Laboratory of the Year” by the US-based R&D Magazine. CREATE has been recognised for its excellence in research laboratory design, planning, and construction, and is the third R&D facility outside of the United States, and the first in East Asia to win this honour.
