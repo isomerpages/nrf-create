@@ -6,20 +6,20 @@ description: ""
 ## Research Centres
 ___
 
-*   [Berkeley Education Alliance for Research in Singapore (BEARS)](https://staging.deqt4bb4eq7sw.amplifyapp.com/about-create/research-centres/bears)
+*   [Berkeley Education Alliance for Research in Singapore (BEARS)](https://bear.create.edu.sg/about-create/research-centres/bears)
 
-*   [Cambridge Centre for Advanced Research and Education In Singapore (CARES)](https://staging.d29996xc3a9u4b.amplifyapp.com/about-create/research-centres/cares/)
+*   [Cambridge Centre for Advanced Research and Education In Singapore (CARES)](https://cares.create.edu.sg/about-create/research-centres/cares/)
 
-*   [Energy and Environmental Sustainability Solutions for Megacities (E2S2)](https://staging.d1oc0a5mwkwsyb.amplifyapp.com/about-create/research-centres/e2s2/)
+*   [Energy and Environmental Sustainability Solutions for Megacities (E2S2)](https://e2s2.create.edu.sg/about-create/research-centres/e2s2/)
 
-*   [Singapore-HUJ Alliance for Research and Enterprise (SHARE)](https://staging.dr0tvixrfwq7.amplifyapp.com/about-create/research-centres/nus-huj-create/)
+*   [Singapore-HUJ Alliance for Research and Enterprise (SHARE)](https://share.create.edu.sg/about-create/research-centres/nus-huj-create/)
 
-*   [Singapore-ETH Centre (SEC)](https://staging.dgjaeobrbyib8.amplifyapp.com/about-create/research-centres/sec/)
+*   [Singapore-ETH Centre (SEC)](https://sg-eth.create.edu.sg/about-create/research-centres/sec/)
 
-*   [Singapore-MIT Alliance for Research and Technology (SMART)](https://staging.d1y086cfm99k88.amplifyapp.com/about-create/research-centres/smart/)
+*   [Singapore-MIT Alliance for Research and Technology (SMART)](https://smart.create.edu.sg/about-create/research-centres/smart/)
 
 *   [Technische Universität München (TUM) CREATE](https://www.tum-create.edu.sg/)
 
-*   [Trustworthy and Secure Cyber Plexus (TSCP) hosted by ILATSG](https://staging.dshw1nyzgktvi.amplifyapp.com/about-create/research-centres/tscp-hosted-by-ilatsg/)
+*   [Trustworthy and Secure Cyber Plexus (TSCP) hosted by ILATSG](https://tscp.create.edu.sg/about-create/research-centres/tscp-hosted-by-ilatsg/)
 
-*   [CNRS@CREATE](https://staging.doozjsv00xhnm.amplifyapp.com/about-create/research-centres/cnrscreate/)
+*   [CNRS@CREATE](https://cnrs.create.edu.sg/about-create/research-centres/cnrscreate/)
