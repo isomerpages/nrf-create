@@ -1,0 +1,22 @@
+collections:
+  galleries:
+    output: true
+    order:
+      - Photo/.keep
+      - Photo/CREATE Laboratory of the Year.md
+      - Video/.keep
+      - Video/CREATE Symposium 2021 Keynote Address by Dr Limin Hee (CLC).md
+      - Video/CREATE Symposium 2021 SinBerWELL.md
+      - Video/CREATE Symposium 2021 CellAg.md
+      - Video/CREATE Symposium 2021 SCAN.md
+      - Video/CREATE Symposium 2021 Proteins4Singapore.md
+      - Video/CREATE Symposium 2021 Mens, Manus & Machina.md
+      - Video/CREATE Mobility Symposium 2020 (part 1).md
+      - Video/CREATE Mobility Symposium 2020 (part 2).md
+      - Video/CREATE Mobility Symposium 2020 (part 3).md
+      - Video/CREATE Mobility Symposium 2020 (part 4).md
+      - Video/CREATE Corporate Video.md
+      - Video/Cheap water quality sensor (in Mandarin).md
+      - Video/Driverless electric cars to take you around?.md
+      - Video/See this autonomous vehicle in action!.md
+      - Demonstrable Technology.md
