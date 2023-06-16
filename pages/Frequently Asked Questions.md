@@ -17,6 +17,10 @@ Email: [keith.tan@bears-berkeley.sg](keith.tan@bears-berkeley.sg) <br>
 Contact Person: Ms Leong Xiang Ning <br>
 Email: [recruitment@cares.cam.ac.uk ](recruitment@cares.cam.ac.uk ) <br>
 
+**CNRS@CREATE** <br>
+Contact Person: Mr Nicolas Christie <br>
+Email: [nicolas.christie@cnrs.fr ](nicolas.christie@cnrs.fr) <br>
+
 **E2S2 (Energy and Environmental Sustainability)** <br>
 Contact Person: Ms Wang Bingfang <br>
 Email: [eriwb@nus.edu.sg](eriwb@nus.edu.sg) <br>
