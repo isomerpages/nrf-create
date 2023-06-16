@@ -3,7 +3,6 @@ title: CREATE entities events pages
 permalink: /events/create-entities-events-pages/
 description: ""
 ---
-
 **You may visit the CREATE entities events pages below for more details.**
 
 ### BEARS
@@ -13,6 +12,9 @@ description: ""
 ### CARES
 
 [http://www.cares.cam.ac.uk/news](http://www.cares.cam.ac.uk/news)
+
+### CNRS@CREATE
+https://www.cnrsatcreate.cnrs.fr/news/.
 
 ### E2S2
 
