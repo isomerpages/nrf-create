@@ -17,6 +17,10 @@ Email: [keith.tan@bears-berkeley.sg](keith.tan@bears-berkeley.sg) <br>
 Contact Person: Ms Leong Xiang Ning <br>
 Email: [recruitment@cares.cam.ac.uk ](recruitment@cares.cam.ac.uk ) <br>
 
+**CNRS@CREATE** <br>
+Contact Person: Mr Nicolas Christie <br>
+Email: [nicolas.christie@cnrs.fr ](nicolas.christie@cnrs.fr) <br>
+
 **E2S2 (Energy and Environmental Sustainability)** <br>
 Contact Person: Ms Wang Bingfang <br>
 Email: [eriwb@nus.edu.sg](eriwb@nus.edu.sg) <br>
@@ -27,8 +31,8 @@ Contact Person: Ms Faizah Noor <br>
 Email: [noor@arch.ethz.ch](noor@arch.ethz.ch) <br> 
 
 **SHARE-MMID (Cellular and Molecular Inflammations)** **SHARE-NEW (Nanomaterials for Energy and Water Management)** <br> 
-Contact Person: Ms Tali Cliff Tavor <br> 
-Email: [tcliff@share-huj.com](tcliff@share-huj.com) <br> 
+Contact Person: Mr Rajes Kumar <br> 
+Email: [rajes.kumar@share-huj.com](rajes.kumar@share-huj.com) <br> 
 
 **SMART-AMR (Antimicrobial Resistance)** <br>
 **SMART-BioSyM (Biosystems and Micromechanics)** <br> 

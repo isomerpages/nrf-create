@@ -79,7 +79,8 @@ contacts:
     title: TSCP
   - content:
       - phone: ""
-      - email: cnrsatcreate@cnrs.fr
-      - other: "POC: Prof Dominique Baillargeat"
+      - email: contact@cnrsatcreate.sg
+      - other: "POC: Mr Nicolas Christie"
     title: CNRS@CREATE
+feedback: https://form.gov.sg/63ea1c9646e5150012a90ded
 ---
