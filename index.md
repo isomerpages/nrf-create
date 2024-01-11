@@ -2,7 +2,7 @@
 layout: homepage
 title: CREATE
 description: Create Campus for Research Excellence And Technological Enterprise
-image: /images/Logos/logo.png
+image: /images/logo__002_.png
 permalink: /
 notification: ""
 sections:
@@ -21,7 +21,7 @@ sections:
         - title: "Why it matters: Killer Heat"
           description: ""
           url: https://www.channelnewsasia.com/cnainsider/singapore-hot-weather-urban-heat-effect-temperature-humidity-906231
-        - title: "A potential treatment for severe malaria "
+        - title: A potential treatment for severe malaria
           description: ""
           url: https://sg.news.yahoo.com/treatment-drug-resistant-malaria-possible-within-10-years-mit-smart-ntu-team-105028576.html?guccounter=1
   - infobar:
