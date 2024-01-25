@@ -1,0 +1,16 @@
+logo: /images/Logos/logo.png
+links:
+  - title: Research Areas
+    collection: research-areas
+  - title: About CREATE
+    collection: about-create
+  - title: Media Room
+    resource_room: true
+  - title: Galleries
+    collection: galleries
+  - title: CREATE entities events pages
+    url: /events/create-entities-events-pages/
+  - title: Contact Us
+    url: /contact-us/
+  - title: FAQ
+    url: /faq/

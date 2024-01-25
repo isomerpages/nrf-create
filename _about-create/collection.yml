@@ -1,0 +1,12 @@
+collections:
+  about-create:
+    output: true
+    order:
+      - Vision.md
+      - CREATE Milestones.md
+      - About the Campus.md
+      - Research Centres.md
+      - CREATE Notable Researchers.md
+      - CREATE Fellowship.md
+      - "Thematic Grant Call: Intersection of Public Health and the
+        Environment.md"
