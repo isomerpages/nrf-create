@@ -2,7 +2,7 @@
 layout: homepage
 title: CREATE
 description: Create Campus for Research Excellence And Technological Enterprise
-image: /images/logo__002_.png
+image: /images/logo.png
 permalink: /
 notification: ""
 sections:
