@@ -2,6 +2,7 @@
 title: CREATE entities events pages
 permalink: /events/create-entities-events-pages/
 description: ""
+variant: markdown
 ---
 **You may visit the CREATE entities events pages below for more details.**
 
@@ -39,3 +40,10 @@ https://www.cnrsatcreate.cnrs.fr/news/.
 ### TSCP hosted by ILATSG
 
 [https://adsc.illinois.edu/events](https://adsc.illinois.edu/events)
+
+
+### IGS 
+
+[https://www.imperial.ac.uk/singapore
+
+
