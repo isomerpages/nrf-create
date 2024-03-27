@@ -809,9 +809,7 @@ II) [to be commenced]</p>
 </td>
 <td rowspan="1" colspan="1">
 <p>The Singapore-HUJ Alliance for Research and Enterprise (SHARE) launched
-in Singapore
-<br>
-</p>
+in Singapore</p>
 </td>
 </tr>
 <tr>
