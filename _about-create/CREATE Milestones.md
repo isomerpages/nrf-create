@@ -2,8 +2,1415 @@
 title: CREATE Milestones
 permalink: /about-create/create-milestones/
 description: ""
+variant: tiptap
 ---
-
-The Campus for Research Excellence and Technological Enterprise (CREATE) was approved by the Research, Innovation and Enterprise Council in 2006.
-
-<table cellspacing="0" cellpadding="0" align="left" class="none" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0112px; border: none; color: rgb(87, 87, 87); font-family: Arial, Helvetica, sans-serif; font-style: normal; font-variant-ligatures: normal; font-variant-caps: normal; font-weight: 400; letter-spacing: normal; orphans: 2; text-align: start; text-transform: none; white-space: normal; widows: 2; word-spacing: 0px; -webkit-text-stroke-width: 0px; background-color: rgb(255, 255, 255); text-decoration-thickness: initial; text-decoration-style: initial; text-decoration-color: initial; width: 640px;"><tbody style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0128px;"><tr style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0144px; border: none; vertical-align: top;"><td style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top; width: 100px;"><strong style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"><span style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0192px; text-decoration: underline;">2007</span></strong></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top; width: 28px;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top; width: 463px;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td></tr><tr style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0144px; border: none; vertical-align: top;"><td style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td></tr><tr style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0144px; border: none; vertical-align: top;"><td style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">July</td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top; width: 28px;">:</td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top; width: 463px;">Singapore-MIT Alliance for Research and Technology (SMART) Centre formed&nbsp;</td></tr><tr style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0144px; border: none; vertical-align: top;"><td style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">:</td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">SMART Infectious Diseases IRG commenced</td></tr><tr style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0144px; border: none; vertical-align: top;"><td style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td></tr><tr style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0144px; border: none; vertical-align: top;"><td style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><strong style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"><span style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0192px; text-decoration: underline;">2008</span></strong></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top; width: 28px;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top; width: 463px;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td></tr><tr style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0144px; border: none; vertical-align: top;"><td style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td></tr><tr style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0144px; border: none; vertical-align: top;"><td style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">January</td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top; width: 28px;">:</td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top; width: 463px;">SMART Centre for Environmental Sensing and Modeling IRG commenced</td></tr><tr style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0144px; border: none; vertical-align: top;"><td style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">&nbsp;</td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top; width: 28px;">&nbsp;</td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top; width: 463px;">&nbsp;</td></tr><tr style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0144px; border: none; vertical-align: top;"><td style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">September</td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top; width: 28px;">:</td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top; width: 463px;">SMART Innovation Centre commenced</td></tr><tr style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0144px; border: none; vertical-align: top;"><td style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td></tr><tr style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0144px; border: none; vertical-align: top;"><td style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><strong style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"><span style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0192px; text-decoration: underline;">2009</span></strong></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top; width: 28px;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top; width: 463px;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td></tr><tr style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0144px; border: none; vertical-align: top;"><td style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td></tr><tr style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0144px; border: none; vertical-align: top;"><td style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">January</td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top; width: 28px;">:<br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top; width: 463px;">SMART BioSystems and Micromechanics IRG commenced</td></tr><tr style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0144px; border: none; vertical-align: top;"><td style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td></tr><tr style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0144px; border: none; vertical-align: top;"><td style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">October</td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top; width: 28px;">:<br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top; width: 463px;">Singapore-Technion Alliance for Research and Technology (START) commenced</td></tr><tr style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0144px; border: none; vertical-align: top;"><td style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td></tr><tr style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0144px; border: none; vertical-align: top;"><td style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><strong style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"><span style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0192px; text-decoration: underline;">2010</span></strong></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top; width: 28px;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top; width: 463px;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td></tr><tr style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0144px; border: none; vertical-align: top;"><td style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td></tr><tr style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0144px; border: none; vertical-align: top;"><td style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">July</td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top; width: 28px;">:<br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top; width: 463px;">SMART Future Mobility IRG commenced</td></tr><tr style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0144px; border: none; vertical-align: top;"><td style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top; width: 28px;">:<br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top; width: 463px;">NUS-HUJ Programme for Inflammation Research commenced</td></tr><tr style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0144px; border: none; vertical-align: top;"><td style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td></tr><tr style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0144px; border: none; vertical-align: top;"><td style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">September</td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top; width: 28px;">:<br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top; width: 463px;">Singapore-ETH Centre (SEC) Future Cities Laboratory (FCL) commenced</td></tr><tr style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0144px; border: none; vertical-align: top;"><td style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td></tr><tr style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0144px; border: none; vertical-align: top;"><td style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><strong style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"><span style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0192px; text-decoration: underline;">2011</span></strong></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top; width: 28px;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top; width: 463px;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td></tr><tr style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0144px; border: none; vertical-align: top;"><td style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td></tr><tr style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0144px; border: none; vertical-align: top;"><td style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">March</td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top; width: 28px;">:<br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top; width: 463px;">Technical University of Munich (TUM) CREATE commenced</td></tr><tr style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0144px; border: none; vertical-align: top;"><td style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td></tr><tr style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0144px; border: none; vertical-align: top;"><td style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">July</td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top; width: 28px;">:<br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top; width: 463px;">BGU-NTU-HUJ Nanomaterials for Energy and Water Management Programme commenced</td></tr><tr style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0144px; border: none; vertical-align: top;"><td style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td></tr><tr style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0144px; border: none; vertical-align: top;"><td style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">December</td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top; width: 28px;">:<br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top; width: 463px;">Singapore-Peking University Research Centre (SPURc) for a Sustainable Low-Carbon Future commenced</td></tr><tr style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0144px; border: none; vertical-align: top;"><td style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td></tr><tr style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0144px; border: none; vertical-align: top;"><td style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><strong style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"><span style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0192px; text-decoration: underline;">2012</span></strong></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top; width: 28px;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top; width: 463px;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td></tr><tr style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0144px; border: none; vertical-align: top;"><td style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td></tr><tr style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0144px; border: none; vertical-align: top;"><td style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">January</td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top; width: 28px;">:<br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top; width: 463px;">SMART Low Energy Electronic Systems IRG commenced</td></tr><tr style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0144px; border: none; vertical-align: top;"><td style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">&nbsp;</td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top; width: 28px;">:<br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top; width: 463px;">Berkeley Education Alliance for Research in Singapore (BEARS) formed; Singapore-Berkeley Building Efficiency and Sustainability in the Tropics (SinBerBEST) programme commenced</td></tr><tr style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0144px; border: none; vertical-align: top;"><td style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td></tr><tr style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0144px; border: none; vertical-align: top;"><td style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">August</td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top; width: 28px;">:<br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top; width: 463px;">SJTU-NUS Energy and Environmental Sustainability Solutions for Megacities (E2S2) programme commenced</td></tr><tr style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0144px; border: none; vertical-align: top;"><td style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td></tr><tr style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0144px; border: none; vertical-align: top;"><td style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">October</td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top; width: 28px;">:<br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top; width: 463px;">Singapore-Berkeley Research Initiative for Sustainable Energy (SinBeRISE) programme commenced</td></tr><tr style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0144px; border: none; vertical-align: top;"><td style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td></tr><tr style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0144px; border: none; vertical-align: top;"><td style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">November</td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top; width: 28px;">:<br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top; width: 463px;">Official opening of the Campus for Research Excellence and Technological Enterprise at NUS University Town by Singapore Prime Minister Lee Hsien Loong</td></tr><tr style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0144px; border: none; vertical-align: top;"><td style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td></tr><tr style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0144px; border: none; vertical-align: top;"><td style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><strong style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"><span style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0192px; text-decoration: underline;">2013</span></strong></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top; width: 28px;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top; width: 463px;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td></tr><tr style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0144px; border: none; vertical-align: top;"><td style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td></tr><tr style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0144px; border: none; vertical-align: top;"><td style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">January</td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top; width: 28px;">:<br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top; width: 463px;">SMART Infectious Diseases IRG renewed (Phase II)</td></tr><tr style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0144px; border: none; vertical-align: top;"><td style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top; width: 28px;">:<br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top; width: 463px;">SMART Centre for Environmental Sensing and Modeling IRG renewed (Phase II)</td></tr><tr style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0144px; border: none; vertical-align: top;"><td style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td></tr><tr style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0144px; border: none; vertical-align: top;"><td style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">April</td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top; width: 28px;">:<br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top; width: 463px;">Cambridge Centre for Advanced Research in Energy Efficiency in Singapore (CARES) formed; Cambridge Centre for Carbon Reduction in Chemical Technology (C4T) programme commenced</td></tr><tr style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0144px; border: none; vertical-align: top;"><td style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td></tr><tr style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0144px; border: none; vertical-align: top;"><td style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><strong style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"><span style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0192px; text-decoration: underline;">2014</span></strong></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top; width: 28px;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top; width: 463px;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td></tr><tr style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0144px; border: none; vertical-align: top;"><td style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td></tr><tr style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0144px; border: none; vertical-align: top;"><td style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">January</td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top; width: 28px;">:<br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top; width: 463px;">SMART BioSystems and Micromechanics IRG renewed (Phase II)</td></tr><tr style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0144px; border: none; vertical-align: top;"><td style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">November<br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">Singapore-ETH Centre (SEC) Future Resilient Systems (FRS) commenced<br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td></tr><tr style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0144px; border: none; vertical-align: top;"><td style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td></tr><tr style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0144px; border: none; vertical-align: top;"><td style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><p style="margin: 0px 0px 25px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"><strong style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0192px;"><span style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0208px; text-decoration: underline;">2015</span></strong></p><p style="margin: 0px 0px 25px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;">September</p></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><p style="margin: 0px 0px 25px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;">&nbsp;</p><p style="margin: 0px 0px 25px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;">:</p></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><p style="margin: 0px 0px 25px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;">&nbsp;</p><p style="margin: 0px 0px 25px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;">Singapore-ETH Centre (SEC) Future Cities Laboratory (FCL) renewed (Phase II) [to be commenced]</p></td></tr><tr style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0144px; border: none; vertical-align: top;"><td style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">&nbsp;<strong style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"><span style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0192px; text-decoration: underline;">2016</span></strong><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">&nbsp;</td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">&nbsp;</td></tr><tr style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0144px; border: none; vertical-align: top;"><td style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">&nbsp;</td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">&nbsp;</td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">&nbsp;</td></tr><tr style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0144px; border: none; vertical-align: top;"><td style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">&nbsp;January</td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">&nbsp;:</td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">SMART Future Mobility IRG renewed (Phase II)</td></tr><tr style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0144px; border: none; vertical-align: top;"><td style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">&nbsp;</td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">&nbsp;</td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">&nbsp;</td></tr><tr style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0144px; border: none; vertical-align: top;"><td style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">&nbsp;July</td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">:</td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">NUS-HUJ Molecular Mechanisms Underlying Inflammatory Diseases (MMID) renewed (Phase II)</td></tr><tr style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0144px; border: none; vertical-align: top;"><td style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">&nbsp;</td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">&nbsp;</td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">&nbsp;</td></tr><tr style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0144px; border: none; vertical-align: top;"><td style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">&nbsp;September</td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">&nbsp;:</td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">The Singapore-HUJ Alliance for Research and Enterprise (SHARE) launched in Singapore<br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td></tr><tr style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0144px; border: none; vertical-align: top;"><td style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">&nbsp;</td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">&nbsp;</td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">&nbsp;</td></tr><tr style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0144px; border: none; vertical-align: top;"><td style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">&nbsp;October</td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">&nbsp;:</td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">&nbsp;SHARE Nanomaterials for Energy and Water Management (NEW) renewed (Phase II)</td></tr><tr style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0144px; border: none; vertical-align: top;"><td style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">&nbsp;</td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">&nbsp;</td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">&nbsp;</td></tr><tr style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0144px; border: none; vertical-align: top;"><td style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">&nbsp;</td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">&nbsp;</td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">&nbsp;</td></tr><tr style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0144px; border: none; vertical-align: top;"><td style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">&nbsp;<strong style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"><span style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0192px; text-decoration: underline;">2017</span></strong><br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">&nbsp;</td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">&nbsp;</td></tr><tr style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0144px; border: none; vertical-align: top;"><td style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">&nbsp;</td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">&nbsp;</td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">&nbsp;</td></tr><tr style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0144px; border: none; vertical-align: top;"><td style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">&nbsp;January</td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">:</td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">SMART Low Energy Electronic Systems (LEES) renewed (Phase II)&nbsp;</td></tr><tr style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0144px; border: none; vertical-align: top;"><td style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">&nbsp;</td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">&nbsp;</td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">&nbsp;</td></tr><tr style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0144px; border: none; vertical-align: top;"><td style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">&nbsp;June&nbsp;</td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">:</td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">Berkeley Building Efficiency and Sustainability in the Tropics (SinBerBEST) renewed (Phase II)<br style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"></td></tr><tr style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0144px; border: none; vertical-align: top;"><td style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">&nbsp;</td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">&nbsp;</td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">&nbsp;</td></tr><tr style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0144px; border: none; vertical-align: top;"><td style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">&nbsp;September</td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">&nbsp;:</td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">Trustworthy and Secure Cyber Plexus (TSCP) programmme hosted by the Ilinois at Singapore Pte Ltd (ILATSG) commenced.</td></tr><tr style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0144px; border: none; vertical-align: top;"><td style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">&nbsp;</td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">&nbsp;</td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;">&nbsp;</td></tr><tr style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0144px; border: none; vertical-align: top;"><td style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><p style="margin: 0px 0px 25px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;"><strong style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0192px;"><span style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.0208px; text-decoration: underline;">2018</span></strong></p><p style="margin: 0px 0px 25px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;">January</p><p style="margin: 0px 0px 25px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;">&nbsp;</p><p style="margin: 0px 0px 25px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;">November</p></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><p style="margin: 0px 0px 25px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;">&nbsp;</p><p style="margin: 0px 0px 25px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;">:</p><p style="margin: 0px 0px 25px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;">&nbsp;</p><p style="margin: 0px 0px 25px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;">:&nbsp;</p></td><td valign="top" style="margin: 0px; padding: 0px; box-sizing: border-box; font-size: 16.016px; border: none; vertical-align: top;"><p style="margin: 0px 0px 25px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;">&nbsp;</p><p style="margin: 0px 0px 25px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;">SMART Antimicrobial Resistance (AMR) and Disruptive &amp; Sustainable Technologies for Agricultural Precision (DISTAP) IRGs commenced</p><p style="margin: 0px 0px 25px; padding: 0px; box-sizing: border-box; font-size: 16.0176px;">CARES Cambridge Centre for Carbon Reduction in Chemical Technology (C4T) renewed (Phase II)</p></td></tr></tbody></table>
+<p>The Campus for Research Excellence and Technological Enterprise (CREATE)
+was approved by the Research, Innovation and Enterprise Council in 2006.</p>
+<table>
+<tbody>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><u>2007</u></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>July</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore-MIT Alliance for Research and Technology (SMART) Centre formed&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SMART Infectious Diseases IRG commenced</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><u>2008</u></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>January</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SMART Centre for Environmental Sensing and Modeling IRG commenced</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>September</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SMART Innovation Centre commenced</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><u>2009</u></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>January</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>:
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SMART BioSystems and Micromechanics IRG commenced</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>October</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>:
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore-Technion Alliance for Research and Technology (START) commenced</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><u>2010</u></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>July</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>:
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SMART Future Mobility IRG commenced</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>:
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NUS-HUJ Programme for Inflammation Research commenced</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>September</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>:
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore-ETH Centre (SEC) Future Cities Laboratory (FCL) commenced</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><u>2011</u></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>March</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>:
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Technical University of Munich (TUM) CREATE commenced</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>July</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>:
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>BGU-NTU-HUJ Nanomaterials for Energy and Water Management Programme commenced</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>December</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>:
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore-Peking University Research Centre (SPURc) for a Sustainable
+Low-Carbon Future commenced</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><u>2012</u></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>January</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>:
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SMART Low Energy Electronic Systems IRG commenced</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>:
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Berkeley Education Alliance for Research in Singapore (BEARS) formed;
+Singapore-Berkeley Building Efficiency and Sustainability in the Tropics
+(SinBerBEST) programme commenced</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>August</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>:
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SJTU-NUS Energy and Environmental Sustainability Solutions for Megacities
+(E2S2) programme commenced</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>October</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>:
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore-Berkeley Research Initiative for Sustainable Energy (SinBeRISE)
+programme commenced</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>November</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>:
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Official opening of the Campus for Research Excellence and Technological
+Enterprise at NUS University Town by Singapore Prime Minister Lee Hsien
+Loong</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><u>2013</u></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>January</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>:
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SMART Infectious Diseases IRG renewed (Phase II)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>:
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SMART Centre for Environmental Sensing and Modeling IRG renewed (Phase
+II)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>April</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>:
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Cambridge Centre for Advanced Research in Energy Efficiency in Singapore
+(CARES) formed; Cambridge Centre for Carbon Reduction in Chemical Technology
+(C4T) programme commenced</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><u>2014</u></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>January</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>:
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SMART BioSystems and Micromechanics IRG renewed (Phase II)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>November
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>:
+<br>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore-ETH Centre (SEC) Future Resilient Systems (FRS) commenced
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><u>2015</u></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>September</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Singapore-ETH Centre (SEC) Future Cities Laboratory (FCL) renewed (Phase
+II) [to be commenced]</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;<strong><u>2016</u></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;January</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SMART Future Mobility IRG renewed (Phase II)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;July</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>NUS-HUJ Molecular Mechanisms Underlying Inflammatory Diseases (MMID) renewed
+(Phase II)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;September</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>The Singapore-HUJ Alliance for Research and Enterprise (SHARE) launched
+in Singapore
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;October</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;SHARE Nanomaterials for Energy and Water Management (NEW) renewed
+(Phase II)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;<strong><u>2017</u></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;January</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SMART Low Energy Electronic Systems (LEES) renewed (Phase II)&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;June&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Berkeley Building Efficiency and Sustainability in the Tropics (SinBerBEST)
+renewed (Phase II)
+<br>
+</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;September</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Trustworthy and Secure Cyber Plexus (TSCP) programmme hosted by the Ilinois
+at Singapore Pte Ltd (ILATSG) commenced.</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><u>2018</u></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>&nbsp;</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>January</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>SMART Antimicrobial Resistance (AMR) and Disruptive &amp; Sustainable
+Technologies for Agricultural Precision (DISTAP) IRGs commenced</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>November</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>:&nbsp;</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CARES Cambridge Centre for Carbon Reduction in Chemical Technology (C4T)
+renewed (Phase II)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><u>2019</u></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>March</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Incorporation of CNRS@CREATE, the first subsidiary of the French National
+Centre for Scientific Research (CNRS) outside of France</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>June</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Commencement of Critical Analytics for Manufacturing of Personalised Medicine
+(CAMP), a 5-year CREATE research programme by SMART and NUS</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><u>2021</u></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>October</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Commencement of Programme DesCartes, a 5-year CREATE Programme by CNRS@CREATE
+on intelligent modelling hybrid-AI techniques for future smart cities</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><u>2022</u></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>April</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Commencement of Proteins for Singapore (P4S), a 5-year CREATE research
+programme by TUMCREATE and NTU</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Commencement of “Smart Grippers for Soft Robotics (SGSR)” by SHARE, NTU,
+and SUTD on development of smart grippers using novel soft materials and
+additive manufacturing methods</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><u>2023</u></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>January</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Commencement of Antimicrobial Resistance (AMR) Phase 2, a 5-year CREATE
+research programme by SMART and NTU</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Commencement of Disruptive and Sustainable Technologies for Agricultural
+Precision (DiSTAP) Phase 2, a 5-year CREATE research programme by SMART
+and Temasek Life Sciences Laboratory (TLL)</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>July</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Commencement of Mens, Manus and Machina: How AI Empowers People, Institutions
+&amp; The City in Singapore (M3S), a 5-year CREATE research programme by
+SMART, SMU and NUS</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p>:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>CREATE Symposium on Science of Sustainable Cities</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>August</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Illinois at Singapore Pte Ltd (ILATSG) name revised to Illinois Advanced
+Research Centre at Singapore Ltd (Illinois ARCS) to reflect expansion of
+research portfolio</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>September</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Commencement of “Trustworthy and Secure Cyber-Plexus for Digital Communities
+(TSCP-DC)” by Illinois ARCS, SUTD, and SIT to address cybersecurity issues
+in critical infrastructure systems</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>October</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Commencement of “CellAg: Bioengineering Tools for Next-Generation Cellular
+Agriculture (CellAg)” by SHARE and NTU on next-generation antimicrobial
+strategies and electrochemical biosensors for the production of cultured
+meat</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>December</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Commencement of the Imperial/NTU CYber Protection for HEalthcaRe (IN-CYPHER)
+programme, a 4-year CREATE research programme by new CREATE Partner Imperial
+Global: Singapore (IGS), and NTU</p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p><strong><u>2024</u></strong>
+</p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+<td rowspan="1" colspan="1">
+<p></p>
+</td>
+</tr>
+<tr>
+<td rowspan="1" colspan="1">
+<p>March</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>:</p>
+</td>
+<td rowspan="1" colspan="1">
+<p>Commencement of Programme SingFarms (Singapore Indoor Farming System)
+by newest CREATE partner, Wageningen University &amp; Research (WUR), and
+NTU</p>
+</td>
+</tr>
+</tbody>
+</table>
+<p></p>
