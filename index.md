@@ -9,7 +9,7 @@ sections:
   - hero:
       title: CREATE
       subtitle: Campus for Research Excellence and Technological Enterprise
-      background: /images/CreateHomepage.png
+      background: /images/NRF___CREATE_1.jpg
       url: /contact-us/
       key_highlights:
         - title: CNRS joins CREATE Research Centres
