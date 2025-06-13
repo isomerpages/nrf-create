@@ -29,18 +29,18 @@ locations:
       - ""
       - ""
     operating_hours: []
-    maps_link: /contact-us/Directions-to-CREATE-TOWER/
+    maps_link: ""
     title: Directions to CREATE TOWER
 contacts:
   - content:
-      - phone: +65 6684 2900
+      - phone: ""
       - email: Communications@nrf.gov.sg
       - other: ""
     title: General Enquiries
   - content:
       - phone: ""
-      - email: jsales@mit.edu
-      - other: "POC: Ms Jocelyn Sales"
+      - email: layyong@smart.mit.edu
+      - other: "POC: Ms Ng Lay Yong"
     title: SMART
   - content:
       - phone: ""
