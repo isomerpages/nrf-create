@@ -2,6 +2,7 @@
 title: Create Partners
 permalink: /partners/
 description: ""
+variant: markdown
 ---
 CREATE Partners
 ---------------
@@ -19,3 +20,4 @@ CREATE Partners
 | ![](/images/Create%20Partners/baf03844-e41e-4e37-b629-1e643917db3d.png) | [http://www.cnrs.fr/en](http://www.cnrs.fr/en) |
 | ![](/images/Create%20Partners/21c2ef44-e814-4949-b5a9-c5c4d87ddb27.png) | [https://www.ntu.edu.sg/](https://www.ntu.edu.sg/) |
 |![](/images/Create%20Partners/638d644b-3530-4445-83a2-c8e9ba6a0dc4.png) | [https://www.nus.edu.sg/](https://www.nus.edu.sg/) |
+![](/images/Imperial_logo.png) | [https://www.imperial.ac.uk/](https://www.imperial.ac.uk/) |
