@@ -2,6 +2,7 @@
 title: Frequently Asked Questions
 permalink: /faq/
 description: ""
+variant: markdown
 ---
 ### 1. What does the Campus for Research Excellence and Technological Enterprise (CREATE) do?
 CREATE is an international research campus of institutional partnerships with leading academic institutions. It brings together international research talent to work on projects of important scientific, societal and economic importance.
@@ -39,8 +40,8 @@ Email: [rajes.kumar@share-huj.com](rajes.kumar@share-huj.com) <br>
 **SMART-DISTAP (Agricultural Precision)** <br> 
 **SMART-FM (Urban Mobility)** <br>
 **SMART-LEES (Low Energy Electronic Systems)** <br> 
-Contact Person: Ms Jocelyn Sales <br> 
-Email: [jsales@mit.edu](jsales@mit.edu) <br> 
+Contact Person: Ms Lay Yong NG <br> 
+Email: [layyong@smart.mit.edu](layyong@smart.mit.edu) <br> 
 
 **TUM-CREATE (Urban Mobility)** <br>
 Contact Person: Ms Carol Lim <br> 
