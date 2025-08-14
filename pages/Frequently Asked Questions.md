@@ -78,8 +78,8 @@ Contact Person: Ms Tali Cliff Tavor <br>
 Email: tcliff@share-huj.com <br>
 
 **SMART** <br>
-Contact Person: Ms Jocelyn Sales <br>
-Email: jsales@mit.edu <br>
+Contact Person: Ms Lay Yong Ng <br>
+Email: layyong@smart.mit.edu <br>
 
 **TUM-CREATE** <br>
 Contact Person: Ms Carol Lim <br>
