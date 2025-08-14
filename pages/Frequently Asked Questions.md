@@ -36,10 +36,11 @@ Contact Person: Mr Rajes Kumar <br>
 Email: [rajes.kumar@share-huj.com](rajes.kumar@share-huj.com) <br> 
 
 **SMART-AMR (Antimicrobial Resistance)** <br>
-**SMART-BioSyM (Biosystems and Micromechanics)** <br> 
-**SMART-DISTAP (Agricultural Precision)** <br> 
-**SMART-FM (Urban Mobility)** <br>
-**SMART-LEES (Low Energy Electronic Systems)** <br> 
+**SMART-CAMP (Critical Analytics for Manufacturing Personalised-medicine)** <br> 
+**SMART-DiSTAP (Agricultural Precision)** <br> 
+**SMART-M3S (Mens, Manus, and Machina)** <br>
+**SMART-WISDOM (Wafer-scale Integrated Sensing Devices based on Optoelectronic Metasurfaces)** <br> 
+**SMART-WITEC (Wearable Imaging for Transforming Elderly Care)** <br>
 Contact Person: Ms Lay Yong NG <br> 
 Email: [layyong@smart.mit.edu](layyong@smart.mit.edu) <br> 
 
