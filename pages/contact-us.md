@@ -69,9 +69,9 @@ contacts:
     title: SHARE
   - content:
       - phone: ""
-      - email: eriwb@nus.edu.sg
-      - other: "POC: Ms Wang Bingfang"
-    title: E2S2
+      - email: candyc@sjtu.edu.cn
+      - other: "POC: Ms Candy Chen"
+    title: SJTU-APGI
   - content:
       - phone: ""
       - email: Pauline.wee@adsc-create.edu.sg
