@@ -8,7 +8,7 @@ variant: markdown
 
 ### BEARS
 
-[http://bears.berkeley.edu/events](http://bears.berkeley.edu/events)
+[https://www.bears.berkeley.edu](https://www.bears.berkeley.edu)
 
 ### CARES
 
@@ -45,5 +45,3 @@ https://www.cnrsatcreate.cnrs.fr/news/.
 ### IGS 
 
 [https://www.imperial.ac.uk/singapore](https://www.imperial.ac.uk/singapore)
-
-
