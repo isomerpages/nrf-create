@@ -44,7 +44,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://illinois-arcs.edu.sg/" rel="noopener nofollow" target="_blank">Illinois Advanced Research Center at Singapore Ltd</a>
+<p><a href="https://www.create.edu.sg/illinois-advanced-research-center-at-singapore-ltd/" rel="noopener nofollow" target="_blank">Illinois Advanced Research Center at Singapore Ltd</a>
 </p>
 </li>
 </ul>
