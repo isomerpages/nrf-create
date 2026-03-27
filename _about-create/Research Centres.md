@@ -44,7 +44,7 @@ variant: tiptap
 </p>
 </li>
 <li>
-<p><a href="https://tscp.create.edu.sg/about-create/research-centres/tscp-hosted-by-ilatsg/" rel="noopener noreferrer nofollow" target="_blank">Trustworthy and Secure Cyber Plexus (TSCP) hosted by ILATSG</a>
+<p><a href="https://www.create.edu.sg/illinois-advanced-research-center-at-singapore-ltd/" rel="noopener nofollow" target="_blank">Illinois Advanced Research Center at Singapore Ltd</a>
 </p>
 </li>
 </ul>
